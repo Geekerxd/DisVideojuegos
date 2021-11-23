@@ -7770,3 +7770,323 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.11.23-07.16.56:332][184]LogSlate: Window 'Message Log' being destroyed
 [2021.11.23-07.19.04:361][991]BlueprintLog: New page: Compile FirstPersonCharacter
 [2021.11.23-07.19.04:537][991]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2021.11.23-07.21.22:484][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.11.23-07.21.22:490][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.050
+[2021.11.23-07.21.22:490][ 43]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2021.11.23-07.21.22:557][ 43]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.11.23-07.21.22:597][ 43]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.11.23-07.21.22:597][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.11.23-07.21.22:816][ 43]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/FirstPersonCharacter_Auto45229AA164D6E38AE908666B05F991E5E.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2021.11.23-07.21.22:818][ 43]LogFileHelpers: Auto-saving content packages took 0.329
+[2021.11.23-07.22.30:327][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BPL_MPCharacter.BPL_MPCharacter
+[2021.11.23-07.22.33:067][718]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-07.22.33:067][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-07.23.02:895][449]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.23-07.23.03:032][449]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.11.23-07.24.13:750][470]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.23-07.24.31:888][401]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.23-07.24.31:898][401]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.23-07.26.34:924][635]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.23-07.26.35:058][635]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.11.23-07.26.56:837][906]LogEditorTransaction: Undo Create Pin Link
+[2021.11.23-07.27.45:667][665]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.23-07.27.54:097][130]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.23-07.27.54:104][130]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.23-07.28.59:254][824]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.23-07.28.59:396][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.11.23-07.29.01:599][929]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.23-07.29.01:610][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-07.29.01:610][929]PIE: New page: PIE session: FirstPersonExampleMap (Nov 22, 2021, 7:29:01 PM)
+[2021.11.23-07.29.01:617][929]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.23-07.29.01:865][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.248411s)
+[2021.11.23-07.29.01:866][929]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.23-07.29.01:867][929]LogPlayLevel: PIE: World Init took: (0.001772s)
+[2021.11.23-07.29.01:867][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.250771s)
+[2021.11.23-07.29.01:908][929]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.11.23-07.29.01:909][929]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2021.11.23-07.29.01:909][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-07.29.01:909][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-07.29.01:909][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-07.29.01:909][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-07.29.01:909][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-07.29.01:909][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-07.29.01:909][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-07.29.01:910][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-07.29.01:910][929]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-07.29.01:910][929]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-07.29.01:914][929]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-07.29.01:914][929]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-07.29.01:989][929]LogAudioMixer: Display: Using Audio Device Altavoces (Conexant SmartAudio HD)
+[2021.11.23-07.29.02:001][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-07.29.02:001][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-07.29.02:002][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-07.29.02:002][929]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-07.29.02:002][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-07.29.02:002][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-07.29.02:010][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-07.29.02:010][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-07.29.02:010][929]LogInit: FAudioDevice initialized.
+[2021.11.23-07.29.02:010][929]LogAudio: Display: Audio Device (ID: 64) registered with world 'FirstPersonExampleMap'.
+[2021.11.23-07.29.02:061][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-07.29.02:061][929]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.23-07.29.02:194][929]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.23-01.29.02
+[2021.11.23-07.29.02:196][929]LogWorld: Bringing up level for play took: 0.134136
+[2021.11.23-07.29.02:196][929]LogOnline: OSS: Creating online subsystem instance for: :Context_150
+[2021.11.23-07.29.02:204][929]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.23-07.29.02:204][929]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.23-07.29.02:204][929]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.23-07.29.02:204][929]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.11.23-07.29.02:204][929]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.23-07.29.02:204][929]LogNet: GameNetDriver IpNetDriver_79 IpNetDriver listening on port 17777
+[2021.11.23-07.29.02:216][929]PIE: Server logged in
+[2021.11.23-07.29.02:225][929]PIE: Play in editor total start time 0.619 seconds.
+[2021.11.23-07.29.02:227][929]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2021.11.23-07.29.02:227][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-07.29.02:227][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-07.29.02:227][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-07.29.02:227][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-07.29.02:227][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-07.29.02:227][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-07.29.02:227][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-07.29.02:227][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-07.29.02:228][929]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-07.29.02:228][929]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-07.29.02:231][929]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-07.29.02:231][929]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-07.29.02:313][929]LogAudioMixer: Display: Using Audio Device Altavoces (Conexant SmartAudio HD)
+[2021.11.23-07.29.02:316][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-07.29.02:316][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-07.29.02:316][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-07.29.02:317][929]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-07.29.02:317][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-07.29.02:317][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-07.29.02:334][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-07.29.02:335][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-07.29.02:335][929]LogInit: FAudioDevice initialized.
+[2021.11.23-07.29.02:335][929]LogAudio: Display: Audio Device (ID: 65) registered with world 'Untitled'.
+[2021.11.23-07.29.02:394][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-07.29.02:394][929]LogNet: Browse: 127.0.0.1:17777/Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.11.23-07.29.02:395][929]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.23-07.29.02:395][929]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.11.23-07.29.02:396][929]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.23-07.29.02:396][929]LogNet: Game client on port 17777, rate 100000
+[2021.11.23-07.29.02:409][929]PIE: Client logged in
+[2021.11.23-07.29.02:419][929]PIE: Play in editor total start time 0.813 seconds.
+[2021.11.23-07.29.02:422][929]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2021.11.23-07.29.02:422][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-07.29.02:422][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-07.29.02:422][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-07.29.02:422][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-07.29.02:422][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-07.29.02:422][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-07.29.02:422][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-07.29.02:422][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-07.29.02:423][929]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-07.29.02:423][929]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-07.29.02:426][929]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-07.29.02:426][929]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-07.29.02:498][929]LogAudioMixer: Display: Using Audio Device Altavoces (Conexant SmartAudio HD)
+[2021.11.23-07.29.02:498][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-07.29.02:498][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-07.29.02:498][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-07.29.02:500][929]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-07.29.02:500][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-07.29.02:500][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-07.29.02:522][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-07.29.02:522][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-07.29.02:522][929]LogInit: FAudioDevice initialized.
+[2021.11.23-07.29.02:522][929]LogAudio: Display: Audio Device (ID: 66) registered with world 'Untitled'.
+[2021.11.23-07.29.02:577][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-07.29.02:577][929]LogNet: Browse: 127.0.0.1:17777/Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.11.23-07.29.02:578][929]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.23-07.29.02:578][929]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.11.23-07.29.02:578][929]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.23-07.29.02:578][929]LogNet: Game client on port 17777, rate 100000
+[2021.11.23-07.29.02:591][929]PIE: Client logged in
+[2021.11.23-07.29.02:599][929]PIE: Play in editor total start time 0.993 seconds.
+[2021.11.23-07.29.03:488][937]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51879
+[2021.11.23-07.29.03:488][937]LogHandshake: SendConnectChallenge. Timestamp: 1.902009, Cookie: 223116156153137029095081242161223157230098162084137251047233
+[2021.11.23-07.29.03:492][937]LogHandshake: SendChallengeResponse. Timestamp: 1.902009, Cookie: 223116156153137029095081242161223157230098162084137251047233
+[2021.11.23-07.29.03:517][938]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51879
+[2021.11.23-07.29.03:517][938]LogHandshake: SendChallengeAck. InCookie: 223116156153137029095081242161223157230098162084137251047233
+[2021.11.23-07.29.03:517][938]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51879
+[2021.11.23-07.29.03:517][938]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.23-07.29.03:517][938]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 11/23/21 01:29:03, [UNetConnection] RemoteAddr: 127.0.0.1:51879, Name: IpConnection_100, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.23-07.29.03:517][938]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51879, Name: IpConnection_100, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.23-07.29.03:519][938]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_98, Driver: PendingNetDriver IpNetDriver_80, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.23-07.29.03:596][939]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2021.11.23-07.29.03:596][939]LogNet: Remote platform little endian=1
+[2021.11.23-07.29.03:596][939]LogNet: This platform little endian=1
+[2021.11.23-07.29.03:601][939]LogOnline: OSS: Creating online subsystem instance for: :Context_151
+[2021.11.23-07.29.03:631][940]LogNet: Login request: ?Name=OZIEL-GARCIA-2FE36B4344C4BB6E6D1571A9C9B2BBD0 userId: NULL:OZIEL-GARCIA-2FE36B4344C4BB6E6D1571A9C9B2BBD0 platform: NULL
+[2021.11.23-07.29.03:631][940]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51880
+[2021.11.23-07.29.03:631][940]LogHandshake: SendConnectChallenge. Timestamp: 2.047674, Cookie: 235099121076168236192152250093071238003075204094088125234170
+[2021.11.23-07.29.03:632][940]LogNet: Welcomed by server (Level: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap, Game: /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2021.11.23-07.29.03:632][940]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap?game=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2021.11.23-07.29.03:632][940]LogWorld: BeginTearingDown for /Temp/Untitled_50
+[2021.11.23-07.29.03:632][940]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-07.29.03:632][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-07.29.03:673][940]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-07.29.03:703][940]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2021.11.23-07.29.03:954][940]LogAudio: Display: Audio Device (ID: 65) registered with world 'FirstPersonExampleMap'.
+[2021.11.23-07.29.03:954][940]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.23-07.29.04:012][940]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.23-01.29.04
+[2021.11.23-07.29.04:014][940]LogWorld: Bringing up level for play took: 0.054673
+[2021.11.23-07.29.04:020][940]LogLoad: Took 0.387773 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2021.11.23-07.29.04:020][940]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.11.23-07.29.04:021][940]LogHandshake: SendChallengeResponse. Timestamp: 2.047674, Cookie: 235099121076168236192152250093071238003075204094088125234170
+[2021.11.23-07.29.04:051][941]LogNet: Client netspeed is 100000
+[2021.11.23-07.29.04:051][941]LogNet: Join request: /Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=OZIEL-GARCIA-2FE36B4344C4BB6E6D1571A9C9B2BBD0?SplitscreenCount=1
+[2021.11.23-07.29.04:052][941]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.23-07.29.04:057][941]LogNet: Join succeeded: OZIEL-GARCIA-2FE36B4
+[2021.11.23-07.29.04:057][941]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51880
+[2021.11.23-07.29.04:057][941]LogHandshake: SendChallengeAck. InCookie: 235099121076168236192152250093071238003075204094088125234170
+[2021.11.23-07.29.04:058][941]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51880
+[2021.11.23-07.29.04:058][941]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.23-07.29.04:059][941]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 11/23/21 01:29:04, [UNetConnection] RemoteAddr: 127.0.0.1:51880, Name: IpConnection_101, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.23-07.29.04:059][941]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51880, Name: IpConnection_101, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.23-07.29.04:074][941]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_99, Driver: PendingNetDriver IpNetDriver_81, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.23-07.29.04:475][942]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2021.11.23-07.29.04:475][942]LogNet: Remote platform little endian=1
+[2021.11.23-07.29.04:475][942]LogNet: This platform little endian=1
+[2021.11.23-07.29.04:482][942]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.23-07.29.04:488][942]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.23-07.29.04:490][942]LogOnline: OSS: Creating online subsystem instance for: :Context_152
+[2021.11.23-07.29.04:551][943]LogNet: Login request: ?Name=OZIEL-GARCIA-BB23D6F443089904F2379E9C72AF12B3 userId: NULL:OZIEL-GARCIA-BB23D6F443089904F2379E9C72AF12B3 platform: NULL
+[2021.11.23-07.29.04:554][943]LogNet: Welcomed by server (Level: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap, Game: /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C)
+[2021.11.23-07.29.04:554][943]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap?game=/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2021.11.23-07.29.04:554][943]LogWorld: BeginTearingDown for /Temp/Untitled_51
+[2021.11.23-07.29.04:554][943]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-07.29.04:554][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-07.29.04:594][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-07.29.04:632][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.23-07.29.04:978][943]LogAudio: Display: Audio Device (ID: 66) registered with world 'FirstPersonExampleMap'.
+[2021.11.23-07.29.04:979][943]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.23-07.29.05:041][943]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.11.23-01.29.05
+[2021.11.23-07.29.05:044][943]LogWorld: Bringing up level for play took: 0.059797
+[2021.11.23-07.29.05:050][943]LogLoad: Took 0.495943 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2021.11.23-07.29.05:050][943]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.11.23-07.29.05:083][944]LogNet: Client netspeed is 100000
+[2021.11.23-07.29.05:083][944]LogNet: Join request: /Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=OZIEL-GARCIA-BB23D6F443089904F2379E9C72AF12B3?SplitscreenCount=1
+[2021.11.23-07.29.05:083][944]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.23-07.29.05:088][944]LogNet: Join succeeded: OZIEL-GARCIA-BB23D6F
+[2021.11.23-07.29.05:095][944]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.23-07.29.05:530][945]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.23-07.29.05:530][945]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.23-07.29.05:648][946]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.11.23-07.29.06:164][950]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1261.265 Y=574.824 Z=196.128] for [FirstPersonProjectile_C]
+[2021.11.23-07.29.06:164][950]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 10
+[2021.11.23-07.29.06:165][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.07:507][961]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 20
+[2021.11.23-07.29.07:507][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.08:173][966]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 30
+[2021.11.23-07.29.08:173][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.09:518][977]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 40
+[2021.11.23-07.29.09:519][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.11:775][996]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.054049 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2021.11.23-07.29.15:031][ 21]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 50
+[2021.11.23-07.29.15:031][ 21]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.16:850][ 35]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 60
+[2021.11.23-07.29.16:850][ 35]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.18:150][ 45]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.071992 > MaxSimulationTimeStep (0.050) for '/Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonProjectile_C_4.CollisionComponent'
+[2021.11.23-07.29.19:981][ 59]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 70
+[2021.11.23-07.29.19:981][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.20:761][ 65]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 80
+[2021.11.23-07.29.20:761][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.21:541][ 71]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 90
+[2021.11.23-07.29.21:541][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.23:365][ 85]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 100
+[2021.11.23-07.29.23:365][ 85]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.24:147][ 91]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 110
+[2021.11.23-07.29.24:147][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.24:930][ 97]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 120
+[2021.11.23-07.29.24:930][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.25:712][103]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 130
+[2021.11.23-07.29.25:712][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.28:829][127]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 140
+[2021.11.23-07.29.28:829][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.29:482][132]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 150
+[2021.11.23-07.29.29:482][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.30:261][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Client 1: 160
+[2021.11.23-07.29.30:261][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScoreText". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Update Score
+[2021.11.23-07.29.34:698][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-07.29.34:699][172]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_2_FirstPersonExampleMap
+[2021.11.23-07.29.34:699][172]LogSlate: Window 'escenario Preview [NetMode: Client 2]  (64-bit/Windows) ' being destroyed
+[2021.11.23-07.29.34:951][172]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-07.29.34:974][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-07.29.35:013][172]LogNet: World NetDriver shutdown IpNetDriver_81 [GameNetDriver]
+[2021.11.23-07.29.35:013][172]LogNet: DestroyNamedNetDriver IpNetDriver_81 [GameNetDriver]
+[2021.11.23-07.29.35:013][172]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_99, Driver: GameNetDriver IpNetDriver_81, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:OZIEL-GARCIA-BB23D6F443089904F2379E9C72AF12B3, Channels: 13, Time: 2021.11.23-07.29.35
+[2021.11.23-07.29.35:013][172]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_99, Driver: GameNetDriver IpNetDriver_81, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:OZIEL-GARCIA-BB23D6F443089904F2379E9C72AF12B3
+[2021.11.23-07.29.35:014][172]LogExit: GameNetDriver IpNetDriver_81 shut down
+[2021.11.23-07.29.35:015][172]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_1_FirstPersonExampleMap
+[2021.11.23-07.29.35:015][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-07.29.35:016][172]LogSlate: Window 'escenario Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2021.11.23-07.29.35:030][172]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-07.29.35:059][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-07.29.35:070][172]LogNet: World NetDriver shutdown IpNetDriver_80 [GameNetDriver]
+[2021.11.23-07.29.35:070][172]LogNet: DestroyNamedNetDriver IpNetDriver_80 [GameNetDriver]
+[2021.11.23-07.29.35:070][172]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_98, Driver: GameNetDriver IpNetDriver_80, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:OZIEL-GARCIA-2FE36B4344C4BB6E6D1571A9C9B2BBD0, Channels: 13, Time: 2021.11.23-07.29.35
+[2021.11.23-07.29.35:070][172]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_98, Driver: GameNetDriver IpNetDriver_80, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:OZIEL-GARCIA-2FE36B4344C4BB6E6D1571A9C9B2BBD0
+[2021.11.23-07.29.35:071][172]LogExit: GameNetDriver IpNetDriver_80 shut down
+[2021.11.23-07.29.35:074][172]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.23-07.29.35:074][172]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.11.23-07.29.35:074][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-07.29.35:074][172]LogSlate: Window 'escenario Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2021.11.23-07.29.35:096][172]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-07.29.35:118][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-07.29.35:127][172]LogNet: World NetDriver shutdown IpNetDriver_79 [GameNetDriver]
+[2021.11.23-07.29.35:127][172]LogNet: DestroyNamedNetDriver IpNetDriver_79 [GameNetDriver]
+[2021.11.23-07.29.35:127][172]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51880, Name: IpConnection_101, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:OZIEL-GARCIA-BB23D6F443089904F2379E9C72AF12B3
+[2021.11.23-07.29.35:127][172]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51880, Name: IpConnection_101, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:OZIEL-GARCIA-BB23D6F443089904F2379E9C72AF12B3, Channels: 13, Time: 2021.11.23-07.29.35
+[2021.11.23-07.29.35:127][172]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51880, Name: IpConnection_101, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:OZIEL-GARCIA-BB23D6F443089904F2379E9C72AF12B3
+[2021.11.23-07.29.35:127][172]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51879, Name: IpConnection_100, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:OZIEL-GARCIA-2FE36B4344C4BB6E6D1571A9C9B2BBD0
+[2021.11.23-07.29.35:127][172]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51879, Name: IpConnection_100, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:OZIEL-GARCIA-2FE36B4344C4BB6E6D1571A9C9B2BBD0, Channels: 13, Time: 2021.11.23-07.29.35
+[2021.11.23-07.29.35:127][172]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51879, Name: IpConnection_100, Driver: GameNetDriver IpNetDriver_79, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:OZIEL-GARCIA-2FE36B4344C4BB6E6D1571A9C9B2BBD0
+[2021.11.23-07.29.35:128][172]LogExit: GameNetDriver IpNetDriver_79 shut down
+[2021.11.23-07.29.35:129][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-07.29.35:161][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-07.29.35:231][172]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-07.29.35:232][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-07.29.35:233][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-07.29.35:255][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-07.29.35:255][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-07.29.35:276][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-07.29.35:277][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-07.29.35:435][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.11.23-07.29.35:601][173]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2021.11.23-07.29.35:601][173]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2021.11.23-07.29.35:601][173]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2021.11.23-07.30.04:035][765]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-07.30.04:047][765]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-07.31.01:078][ 71]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.23-07.31.01:204][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.11.23-07.31.02:137][ 85]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/FirstPersonCharacter8A10B8E44692E03B39DDB3932091C27D.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/DVL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.11.23-07.31.02:159][ 85]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.11.23-07.31.02:159][ 85]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.11.23-07.31.10:869][603]LogEditorTransaction: Undo Move Node
+[2021.11.23-07.31.12:551][676]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.23-07.31.12:678][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.11.23-07.31.13:423][682]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/FirstPersonCharacter4923194D4CB161D7B77902802A4D7AB8.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/DVL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.11.23-07.31.13:447][682]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.11.23-07.31.13:447][682]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.11.23-07.31.25:524][372]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/FirstPersonCharacterBA58EC8C40228EDE1BBDB18DAA8A02DA.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/DVL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.11.23-07.31.25:550][372]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.11.23-07.31.25:550][372]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.11.23-07.33.07:070][213]BlueprintLog: New page: Compile FPSHUD
+[2021.11.23-07.33.07:238][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.11.23-07.33.59:871][339]BlueprintLog: New page: Compile FPSHUD
+[2021.11.23-07.33.59:939][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.11.23-07.34.01:723][421]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.23-07.34.01:858][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.11.23-07.34.34:194][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.11.23-07.34.34:197][919]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.043
+[2021.11.23-07.34.34:198][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2021.11.23-07.34.34:306][919]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.11.23-07.34.34:375][919]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.11.23-07.34.34:375][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.11.23-07.34.34:587][919]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/FirstPersonCharacter_Auto5AA8046644D7CD66526E75F9BB1E80B4F.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2021.11.23-07.34.34:590][919]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player-character01/blueprints/FPSHUD] ([1] browsable assets)...
+[2021.11.23-07.34.34:590][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player-character01/blueprints/FPSHUD]
+[2021.11.23-07.34.34:631][919]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/FPSHUD_Auto51EFDFD12468AEF26771D559D971C4EE7.tmp' to '../../../../../../Users/ASUS/Documents/GitHub/DVL/Saved/Autosaves/Game/Player-character01/blueprints/FPSHUD_Auto5.uasset'
+[2021.11.23-07.34.34:633][919]LogFileHelpers: Auto-saving content packages took 0.436
