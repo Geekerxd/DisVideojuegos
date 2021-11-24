@@ -1,0 +1,1559 @@
+﻿Log file open, 11/24/21 11:49:38
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: escenario
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.421263
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  127.0.0.1:17777 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/PIEGameUserSettings2.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=159 -WinY=49 SAVEWINPOS=1 -ResX=640 -ResY=480
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.24-17.49.39:793][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.11.24-17.49.39:793][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Engine.ini]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Engine.ini]
+[2021.11.24-17.49.39:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Engine.ini]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.24-17.49.39:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Engine.ini]
+[2021.11.24-17.49.39:794][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.24-17.49.39:795][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Engine.ini]
+[2021.11.24-17.49.39:795][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Engine.ini]
+[2021.11.24-17.49.39:823][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.24-17.49.39:823][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.24-17.49.39:824][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.24-17.49.39:825][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.24-17.49.39:826][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.24-17.49.39:827][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.24-17.49.39:828][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.24-17.49.39:828][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.24-17.49.39:829][  0]LogHAL: Display: Platform has ~ 8 GB [8470978560 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.24-17.49.39:830][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.24-17.49.39:830][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:830][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.24-17.49.39:830][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.24-17.49.39:830][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:830][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.24-17.49.39:831][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.24-17.49.39:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.24-17.49.39:833][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.24-17.49.39:834][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.24-17.49.39:835][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:835][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.24-17.49.39:836][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.24-17.49.39:836][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-17.49.39:836][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.24-17.49.39:836][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.24-17.49.39:836][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.24-17.49.39:836][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.24-17.49.39:837][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.24-17.49.39:837][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.24-17.49.39:837][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.24-17.49.39:837][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Engine.ini]
+[2021.11.24-17.49.39:838][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS/Documents/GitHub/DLVfinal/Saved/Config/Windows/Editor.ini]
+[2021.11.24-17.49.39:839][  0]LogInit: Computer: OZIEL-GARCIA
+[2021.11.24-17.49.39:839][  0]LogInit: User: ASUS
+[2021.11.24-17.49.39:839][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.24-17.49.39:839][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.24-17.49.39:839][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.11.24-17.49.39:839][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.24-17.49.39:839][  0]LogMemory: Process Physical Memory: 135.94 MB used, 135.94 MB peak
+[2021.11.24-17.49.39:839][  0]LogMemory: Process Virtual Memory: 118.93 MB used, 118.93 MB peak
+[2021.11.24-17.49.39:839][  0]LogMemory: Physical Memory: 5933.10 MB used,  2145.46 MB free, 8078.55 MB total
+[2021.11.24-17.49.39:839][  0]LogMemory: Virtual Memory: 134204216.00 MB used,  13515.06 MB free, 134217728.00 MB total
+[2021.11.24-17.49.39:858][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.24-17.49.40:003][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.24-17.49.40:004][  0]LogInit: Using OS detected language (es-MX).
+[2021.11.24-17.49.40:004][  0]LogInit: Using OS detected locale (es-MX).
+[2021.11.24-17.49.40:055][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2021.11.24-17.49.40:056][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2021.11.24-17.49.40:056][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2021.11.24-17.49.40:057][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2021.11.24-17.49.40:057][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2021.11.24-17.49.40:058][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2021.11.24-17.49.40:058][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2021.11.24-17.49.40:059][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.11.24-17.49.40:059][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.11.24-17.49.40:060][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.11.24-17.49.40:214][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-17.49.40:274][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.24-17.49.40:274][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.24-17.49.40:408][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.24-17.49.40:408][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.24-17.49.40:409][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.24-17.49.40:409][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.24-17.49.40:857][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 930MX' (Feature Level 11_0)
+[2021.11.24-17.49.40:857][  0]LogD3D11RHI:       2010/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.24-17.49.40:903][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.11.24-17.49.40:903][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.24-17.49.40:906][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.24-17.49.40:906][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.24-17.49.40:906][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.24-17.49.40:969][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.24-17.49.40:969][  0]LogD3D11RHI:     GPU DeviceId: 0x134e (for the marketing name, search the web for "GPU Device Id")
+[2021.11.24-17.49.40:969][  0]LogWindows: EnumDisplayDevices:
+[2021.11.24-17.49.40:969][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.11.24-17.49.40:970][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.11.24-17.49.40:971][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.11.24-17.49.40:971][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.11.24-17.49.40:971][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 930MX
+[2021.11.24-17.49.40:971][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.11.24-17.49.40:971][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.11.24-17.49.40:971][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2021.11.24-17.49.41:088][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.24-17.49.41:088][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.24-17.49.41:130][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.11.24-17.49.41:132][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.24-17.49.42:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.24-17.49.42:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.24-17.49.42:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.24-17.49.42:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.24-17.49.42:152][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.24-17.49.42:161][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.24-17.49.42:323][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.24-17.49.42:325][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/Intermediate/Shaders/WorkingDirectory/21912/).
+[2021.11.24-17.49.42:325][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ASUS/AppData/Local/Temp/UnrealShaderWorkingDir/F17E2CF74708E5B32AC5AB9AE8005BEC/'.
+[2021.11.24-17.49.42:325][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.24-17.49.42:325][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.24-17.49.44:175][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.24-17.49.44:371][  0]LogDerivedDataCache: Loaded boot cache 0.15s 77MB C:/Users/ASUS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.24-17.49.44:371][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ASUS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.24-17.49.44:371][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.24-17.49.44:372][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.24-17.49.44:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.24-17.49.44:372][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.24-17.49.44:392][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.24-17.49.44:392][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.24-17.49.44:392][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.24-17.49.44:426][  0]LogDerivedDataCache: Speed tests for C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.11.24-17.49.44:427][  0]LogDerivedDataCache: Display: Performance to C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=83.56MBs, RandomWriteSpeed=43.20MBs. Assigned SpeedClass 'Local'
+[2021.11.24-17.49.44:428][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.24-17.49.44:428][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.24-17.49.44:428][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.24-17.49.44:500][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.24-17.49.44:500][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.24-17.49.44:777][  0]LogInit: Using OS detected language (es-MX).
+[2021.11.24-17.49.44:777][  0]LogInit: Using OS detected locale (es-MX).
+[2021.11.24-17.49.44:777][  0]LogTextLocalizationManager: No localization for 'es-MX' exists, so 'en' will be used for the language.
+[2021.11.24-17.49.44:778][  0]LogTextLocalizationManager: No localization for 'es-MX' exists, so 'en' will be used for the locale.
+[2021.11.24-17.49.44:778][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.24-17.49.44:778][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.24-17.49.44:824][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.11.24-17.49.44:831][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.11.24-17.49.45:176][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.003390 seconds
+[2021.11.24-17.49.45:315][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.24-17.49.45:315][  0]LogInit: Active device profile: [00000263334EE300][0000026329FF1200 49] Windows
+[2021.11.24-17.49.45:315][  0]LogInit: Profiles: [00000263334EE300][0000026329FF1200 49] Windows, [000002633447D500][0000026329FF5340 49] WindowsNoEditor, [00000263334ED900][0000026329FF9480 49] WindowsServer, [000002633447DE00][0000026329DA3600 49] WindowsClient, [00000263334EC200][0000026329DA7780 49] IOS, [000002633447F100][0000026329DAB900 49] iPadAir, [00000263334EC100][0000026329DAFA80 49] iPadAir2, [0000026334429A00][000002631F157D40 49] IPadPro, [0000026334429B00][0000026329DB20C0 49] iPadAir3, [000002633447FD00][000002631F15A240 49] iPadAir4, [000002633442B200][000002631F15E3C0 49] iPadMini2, [000002633447E000][000002631F162540 49] iPadMini3, [0000026334429700][000002631F1666C0 49] iPadMini4, [000002633447E100][000002631F16A840 49] iPadMini5, [0000026334424F00][000002631F172B00 49] iPhone6, [0000026334425000][000002631F16EB40 49] iPodTouch6, [00000263334ED300][000002631F17AE00 49] iPhone7, [00000263334ED200][000002631F176E40 49] iPodTouch7, [000002633447E300][000002631F17EFC0 49] iPhone5S, [0000026334427D00][000002631F183140 49] iPhone6Plus, [000002633447C100][0000026329FFD280 49] iPhone6S, [0000026334424900][000002631F1873C0 49] iPhone6SPlus, [000002633447F400][000002631F18B500 49] iPhone7Plus, [0000026334427600][000002631F18F640 49] iPhoneSE, [000002633447C700][000002631F1977C0 49] iPhone8, [0000026334425500][000002631F19B940 49] iPhone8Plus, [000002633447CF00][000002631F19FAC0 49] iPhoneX, [0000026334424B00][000002631F1A3C40 49] iPhoneXS, [000002633447E700][000002631F1A6100 49] iPhoneXSMax, [0000026334426200][000002631F1AA280 49] iPhoneXR, [000002633447F900][00000263344D0400 49] iPhone11, [0000026334427C00][00000263344D4580 49] iPhone11Pro, [000002633447F600][00000263344D8700 49] iPhone11ProMax, [0000026334426700][00000263344DC880 49] iPhoneSE2, [000002633447FA00][00000263344E0A00 49] iPhone12Mini, [00000263334EE200][00000263344E4B80 49] iPhone12, [000002633447F500][00000263344E8D00 49] iPhone12Pro, [00000263334EC800][00000263344ECE80 49] iPhone12ProMax, [000002633447DA00][00000263344F1000 49] iPadPro105, [00000263334EEB00][00000263344F5180 49] iPadPro129, [000002633447C500][000002631F1932C0 49] iPadPro97, [00000263334EED00][00000263344F9400 49] iPadPro2_129, [000002633447FF00][00000263344FD540 49] iPad5, [00000263334EE600][0000026334501680 49] iPad6, [000002633447C900][0000026334509800 49] iPad7, [00000263334EE500][000002633450D980 49] iPad8, [000002633447D800][0000026334511B00 49] iPadPro11, [00000263334EE900][0000026334515C80 49] iPadPro2_11, [000002633447EF00][0000026334518140 49] iPadPro3_129, [00000263334EC500][000002633451C2C0 49] iPadPro4_129, [000002633447C800][0000026334520440 49] AppleTV, [00000263334ECF00][00000263345245C0 49] AppleTV4K, [000002633447E200][0000026334528740 49] TVOS, [00000263334ED800][000002633452C8C0 49] Mac, [000002633447CC00][0000026334530A40 49] MacClient, [00000263334EE700][0000026334534BC0 49] MacNoEditor, [000002633447E800][0000026334538D40 49] MacServer, [00000263334ED500][000002633453CEC0 49] Linux, [000002633447FB00][0000026334541040 49] LinuxAArch64, [00000263334EDD00][00000263345451C0 49] LinuxNoEditor, [000002633447DD00][0000026334549340 49] LinuxAArch64NoEditor, [00000263334EC700][0000026334505480 49] LinuxClient, [000002633447D600][000002633454D5C0 49] LinuxAArch64Client, [00000263334EDC00][0000026334551700 49] LinuxServer, [000002633447F700][0000026334559880 49] LinuxAArch64Server, [00000263334EEF00][000002633455DA00 49] Android, [000002633447C300][0000026334561B80 49] Android_Low, [00000263334EC600][0000026334565D00 49] Android_Mid, [000002633442A300][00000263345681C0 49] Android_High, [0000026334425600][000002633456C340 49] Android_Default, [0000026334429000][00000263345704C0 49] Android_Adreno4xx, [0000026334425C00][0000026334574640 49] Android_Adreno5xx_Low, [000002633442B600][00000263345787C0 49] Android_Adreno5xx, [0000026334424500][000002633457C940 49] Android_Adreno6xx, [000002633442BC00][0000026334580AC0 49] Android_Adreno6xx_Vulkan, [0000026334425F00][0000026334584C40 49] Android_Mali_T6xx, [000002633442A000][0000026334588DC0 49] Android_Mali_T7xx, [0000026334425E00][000002633458CF40 49] Android_Mali_T8xx, [000002633442A100][00000263345910C0 49] Android_Mali_G71, [0000026334425400][0000026334595240 49] Android_Mali_G72, [000002633442BD00][00000263345993C0 49] Android_Mali_G72_Vulkan, [0000026334424C00][0000026334555500 49] Android_Mali_G76, [000002633442A700][000002633459D640 49] Android_Mali_G76_Vulkan, [0000026334427100][00000263345A1780 49] Android_Mali_G77, [0000026334429100][00000263345A9900 49] Android_Mali_G77_Vulkan, [0000026334427800][00000263345ADA80 49] Android_Vulkan_SM5, [000002633442B400][00000263345B1C00 49] Android_PowerVR_G6xxx, [0000026334426300][00000263345B40C0 49] Android_PowerVR_GT7xxx, [000002633442AA00][00000263345B8240 49] Android_PowerVR_GE8xxx, [0000026334426800][00000263345BC3C0 49] Android_PowerVR_GM9xxx, [0000026334429C00][00000263345C0540 49] Android_PowerVR_GM9xxx_Vulkan, [0000026334426A00][00000263345C46C0 49] Android_TegraK1, [0000026334429900][00000263345C8840 49] Android_Unknown_Vulkan, [0000026334426E00][00000263345CC9C0 49] Lumin, [000002633442A400][00000263345D0B40 49] Lumin_Desktop, [0000026334425100][00000263345D4CC0 49] HoloLens, 
+[2021.11.24-17.49.45:462][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.24-17.49.45:462][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.24-17.49.45:462][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.24-17.49.45:462][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.24-17.49.45:463][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.24-17.49.45:632][  0]LogNetVersion: escenario 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1246768835)
+[2021.11.24-17.49.46:302][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.24-17.49.46:772][  0]LogMoviePlayer: Initializing movie player
+[2021.11.24-17.49.47:682][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.24-17.49.47:688][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.24-17.49.47:727][  0]SourceControl: Source control is disabled
+[2021.11.24-17.49.47:727][  0]SourceControl: Source control is disabled
+[2021.11.24-17.49.47:735][  0]SourceControl: Source control is disabled
+[2021.11.24-17.49.47:768][  0]LogUProjectInfo: Found projects:
+[2021.11.24-17.49.48:003][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.24-17.49.48:029][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.24-17.49.48:029][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.24-17.49.48:144][  0]LogOcInput: OculusInput pre-init called
+[2021.11.24-17.49.48:160][  0]LogUObjectArray: 20224 objects as part of root set at end of initial load.
+[2021.11.24-17.49.48:160][  0]LogUObjectAllocator: 5386176 out of 0 bytes used by permanent object pool.
+[2021.11.24-17.49.48:160][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.24-17.49.48:306][  0]LogEngine: Initializing Engine...
+[2021.11.24-17.49.48:312][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.24-17.49.48:313][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.24-17.49.48:316][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2021.11.24-17.49.48:594][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.24-17.49.48:594][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.24-17.49.48:621][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.24-17.49.48:621][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.24-17.49.48:621][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-17.49.48:622][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-17.49.48:622][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-17.49.48:622][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-17.49.48:622][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-17.49.48:622][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-17.49.48:622][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-17.49.48:622][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-17.49.48:625][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-17.49.48:625][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-17.49.48:690][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-17.49.48:690][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-17.49.48:916][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Conexant SmartAudio HD)
+[2021.11.24-17.49.48:925][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-17.49.48:929][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-17.49.48:930][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-17.49.48:934][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-17.49.48:934][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-17.49.48:934][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-17.49.48:936][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-17.49.48:936][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-17.49.48:936][  0]LogInit: FAudioDevice initialized.
+[2021.11.24-17.49.48:940][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.24-17.49.48:949][  0]LogInit: Texture streaming: Enabled
+[2021.11.24-17.49.49:157][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_main/MainMenu/OptionsMenu.OptionsMenu_C:Player Info'. Unknown structure.
+[2021.11.24-17.49.49:159][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_main/PlayerSave.PlayerSave_C:PlayerInfo'. Unknown structure.
+[2021.11.24-17.49.49:159][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag STRUCT_REINST_S_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/Content/_main/PlayerSave.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.49.49:211][  0]LogClass: Warning: Property Player Info of Player Info has a struct type mismatch (tag STRUCT_REINST_S_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/Content/_main/MainMenu/OptionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.49.49:386][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag FallbackStruct != prop S_PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.49.49:388][  0]LogClass: Warning: Property Player Info of Player Info has a struct type mismatch (tag FallbackStruct != prop S_PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.49.49:517][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.24-17.49.49:522][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-17.49.49:527][  0]LogInit: Display: Game Engine Initialized.
+[2021.11.24-17.49.49:531][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.11.24-17.49.49:731][  0]LogInit: Display: Starting Game.
+[2021.11.24-17.49.49:733][  0]LogNet: Browse: 127.0.0.1:17777/Game/_main/Maps/MainMenu?Name=Player
+[2021.11.24-17.49.49:739][  0]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.11.24-17.49.49:739][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.11.24-17.49.49:742][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.24-17.49.49:745][  0]LogNet: Game client on port 17777, rate 100000
+[2021.11.24-17.49.49:848][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.24-17.49.49:848][  0]LogLoad: (Engine Initialization) Total time: 17.36 seconds
+[2021.11.24-17.49.49:848][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.24-17.49.49:848][  0]LogInit: First time updating LLM stats...
+[2021.11.24-17.49.49:861][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.24-17.49.49:866][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-17.50.03:113][610]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.11.24-17.50.03:114][610]LogHandshake: SendChallengeResponse. Timestamp: 0.000101, Cookie: 255221079064096185089065241029076044233245075050210098251041
+[2021.11.24-17.50.03:114][610]LogHandshake: SendChallengeResponse. Timestamp: 0.000101, Cookie: 255221079064096185089065241029076044233245075050210098251041
+[2021.11.24-17.50.04:123][841]LogHandshake: SendChallengeResponse. Timestamp: 0.000101, Cookie: 255221079064096185089065241029076044233245075050210098251041
+[2021.11.24-17.50.04:915][121]LogNetVersion: escenario 1.0.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 398865001)
+[2021.11.24-17.50.04:915][121]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.24-17.50.05:073][124]LogNet: Welcomed by server (Level: /Game/FirstPersonBP/Maps/FirstPersonExampleMap, Game: /Game/_main/Gameplay/BP_GameplayGameMode.BP_GameplayGameMode_C)
+[2021.11.24-17.50.05:074][124]LogLoad: LoadMap: 127.0.0.1:17777/Game/FirstPersonBP/Maps/FirstPersonExampleMap?Name=Player?game=/Game/_main/Gameplay/BP_GameplayGameMode.BP_GameplayGameMode_C
+[2021.11.24-17.50.05:074][124]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.11.24-17.50.05:074][124]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-17.50.05:075][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-17.50.05:083][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-17.50.05:090][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.24-17.50.05:304][124]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_main/Lobby/PlayerButton.PlayerButton_C:playerInfo'. Unknown structure.
+[2021.11.24-17.50.05:305][124]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_S_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/Content/_main/Lobby/PlayerButton.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.50.05:330][124]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_main/Lobby/ConnectedPlayer.ConnectedPlayer_C:playerInfo'. Unknown structure.
+[2021.11.24-17.50.05:330][124]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_S_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/Content/_main/Lobby/ConnectedPlayer.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.50.05:756][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FP_Gun" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FP_Gun
+[2021.11.24-17.50.05:757][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderIndex" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderIndex
+[2021.11.24-17.50.05:757][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "index" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener index
+[2021.11.24-17.50.05:758][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderIndex" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderIndex
+[2021.11.24-17.50.05:758][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Sphere1" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Sphere1
+[2021.11.24-17.50.05:759][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PlayerCollition" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar PlayerCollition
+[2021.11.24-17.50.05:759][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Score" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Score
+[2021.11.24-17.50.05:760][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Score" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Score
+[2021.11.24-17.50.05:760][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PlayerCollition" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener PlayerCollition
+[2021.11.24-17.50.05:760][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] En componente golpear (Character_body)  does not have a valid matching component!
+[2021.11.24-17.50.05:761][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.05:762][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "amiAlive?" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener amiAlive?
+[2021.11.24-17.50.05:762][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "amiAlive?" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar amiAlive?
+[2021.11.24-17.50.05:763][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Character_body" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Character_body
+[2021.11.24-17.50.05:764][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.05:764][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.05:764][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "HealtBar" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener HealtBar
+[2021.11.24-17.50.05:765][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Character_body" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Character_body
+[2021.11.24-17.50.05:765][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "control rotation synchronized" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener control rotation synchronized
+[2021.11.24-17.50.05:765][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.05:766][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "control rotation synchronized" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar control rotation synchronized
+[2021.11.24-17.50.05:766][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "control rotation synchronized" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener control rotation synchronized
+[2021.11.24-17.50.05:766][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.05:767][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "control rotation synchronized" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar control rotation synchronized
+[2021.11.24-17.50.05:767][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "GunOffset" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener GunOffset
+[2021.11.24-17.50.05:768][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PauseWidget" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener PauseWidget
+[2021.11.24-17.50.05:771][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Can't connect pins  self  and  charRef : Self Object Reference is not compatible with Character Green Object Reference.
+[2021.11.24-17.50.05:771][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Can't connect pins  charRef  and  self : Character Green Object Reference is not compatible with Self Object Reference.
+[2021.11.24-17.50.05:772][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PauseWidget" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener
+[2021.11.24-17.50.05:772][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PauseWidget" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar PauseWidget
+[2021.11.24-17.50.05:773][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Name" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Name
+[2021.11.24-17.50.05:773][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeDamagex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar timeDamagex2
+[2021.11.24-17.50.05:774][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "dobleDano" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar dobleDano
+[2021.11.24-17.50.05:774][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeDamagex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener timeDamagex2
+[2021.11.24-17.50.05:774][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeDamagex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar timeDamagex2
+[2021.11.24-17.50.05:775][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeScorex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar timeScorex2
+[2021.11.24-17.50.05:775][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "puntosDobles" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar puntosDobles
+[2021.11.24-17.50.05:776][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeScorex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener timeScorex2
+[2021.11.24-17.50.05:776][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeScorex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar timeScorex2
+[2021.11.24-17.50.05:777][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.05:777][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderHealth" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderHealth
+[2021.11.24-17.50.05:777][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderHealth" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderHealth
+[2021.11.24-17.50.05:778][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderName" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderName
+[2021.11.24-17.50.05:778][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.05:779][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.05:779][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "dobleDano" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener dobleDano
+[2021.11.24-17.50.05:780][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "BaseTurnRate" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener BaseTurnRate
+[2021.11.24-17.50.05:781][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "dobleDano" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar dobleDano
+[2021.11.24-17.50.05:781][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "puntosDobles" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar puntosDobles
+[2021.11.24-17.50.05:782][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.05:783][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.05:784][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.05:784][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderHealth" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderHealth
+[2021.11.24-17.50.05:785][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] En componente golpear (Mesh2P)  does not have a valid matching component!
+[2021.11.24-17.50.05:786][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.05:786][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.05:787][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "BaseLookUpRate" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener BaseLookUpRate
+[2021.11.24-17.50.05:788][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderName" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderName
+[2021.11.24-17.50.05:788][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Name" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Name
+[2021.11.24-17.50.05:789][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "UsingMotionControllers?" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener UsingMotionControllers?
+[2021.11.24-17.50.05:790][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "VR_Marker" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener VR_Marker
+[2021.11.24-17.50.05:790][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "UsingMotionControllers?" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener UsingMotionControllers?
+[2021.11.24-17.50.05:791][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.05:791][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.05:791][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Mesh2P" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Mesh2P
+[2021.11.24-17.50.05:792][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "VR_Gun" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener VR_Gun
+[2021.11.24-17.50.05:792][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Mesh2P" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Mesh2P
+[2021.11.24-17.50.05:792][124]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.05:796][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] This blueprint (self) is not a pauseMenu_C, therefore ' Meta ' must have a connection.
+[2021.11.24-17.50.05:796][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] This blueprint (self) is not a pauseMenu_C, therefore ' Meta ' must have a connection.
+[2021.11.24-17.50.05:796][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Meta ' must have a connection.
+[2021.11.24-17.50.05:953][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.05:953][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Mesh2P  no se ha encontrado
+[2021.11.24-17.50.05:954][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  VR_Gun  no se ha encontrado
+[2021.11.24-17.50.05:954][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Mesh2P  no se ha encontrado
+[2021.11.24-17.50.05:954][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.05:955][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.05:955][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  UsingMotionControllers?  no se ha encontrado
+[2021.11.24-17.50.05:955][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  VR_Marker  no se ha encontrado
+[2021.11.24-17.50.05:955][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  UsingMotionControllers?  no se ha encontrado
+[2021.11.24-17.50.05:956][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderName  no se ha encontrado
+[2021.11.24-17.50.05:956][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Name  no se ha encontrado
+[2021.11.24-17.50.05:956][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  BaseLookUpRate  no se ha encontrado
+[2021.11.24-17.50.05:957][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:957][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:957][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderHealth  no se ha encontrado
+[2021.11.24-17.50.05:957][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:958][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:958][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:958][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  puntosDobles  no se ha encontrado
+[2021.11.24-17.50.05:958][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  dobleDano  no se ha encontrado
+[2021.11.24-17.50.05:959][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PauseWidget  no se ha encontrado
+[2021.11.24-17.50.05:959][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  BaseTurnRate  no se ha encontrado
+[2021.11.24-17.50.05:959][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  dobleDano  no se ha encontrado
+[2021.11.24-17.50.05:960][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:960][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:960][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderName  no se ha encontrado
+[2021.11.24-17.50.05:960][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderHealth  no se ha encontrado
+[2021.11.24-17.50.05:961][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderHealth  no se ha encontrado
+[2021.11.24-17.50.05:961][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:961][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeScorex2  no se ha encontrado
+[2021.11.24-17.50.05:962][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  puntosDobles  no se ha encontrado
+[2021.11.24-17.50.05:962][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeScorex2  no se ha encontrado
+[2021.11.24-17.50.05:962][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeScorex2  no se ha encontrado
+[2021.11.24-17.50.05:962][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeDamagex2  no se ha encontrado
+[2021.11.24-17.50.05:962][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  dobleDano  no se ha encontrado
+[2021.11.24-17.50.05:963][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeDamagex2  no se ha encontrado
+[2021.11.24-17.50.05:963][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeDamagex2  no se ha encontrado
+[2021.11.24-17.50.05:963][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Name  no se ha encontrado
+[2021.11.24-17.50.05:964][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PauseWidget  no se ha encontrado
+[2021.11.24-17.50.05:964][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] El nodo de la variable  Obtener txtTitle  usa una meta no válida. Puede depender de un nodo que no esté conectado a la cadena de ejecución, y se haya eliminado.
+[2021.11.24-17.50.05:964][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] El nodo de la variable  Ajustar charRef  usa una meta no válida. Puede depender de un nodo que no esté conectado a la cadena de ejecución, y se haya eliminado.
+[2021.11.24-17.50.05:964][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PauseWidget  no se ha encontrado
+[2021.11.24-17.50.05:965][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  GunOffset  no se ha encontrado
+[2021.11.24-17.50.05:965][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  control rotation synchronized  no se ha encontrado
+[2021.11.24-17.50.05:965][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  control rotation synchronized  no se ha encontrado
+[2021.11.24-17.50.05:966][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.05:966][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  control rotation synchronized  no se ha encontrado
+[2021.11.24-17.50.05:966][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.05:966][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  control rotation synchronized  no se ha encontrado
+[2021.11.24-17.50.05:967][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Character_body  no se ha encontrado
+[2021.11.24-17.50.05:967][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  HealtBar  no se ha encontrado
+[2021.11.24-17.50.05:968][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:968][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:968][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Character_body  no se ha encontrado
+[2021.11.24-17.50.05:969][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  amiAlive?  no se ha encontrado
+[2021.11.24-17.50.05:969][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  amiAlive?  no se ha encontrado
+[2021.11.24-17.50.05:969][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.05:970][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PlayerCollition  no se ha encontrado
+[2021.11.24-17.50.05:970][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Score  no se ha encontrado
+[2021.11.24-17.50.05:970][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PlayerCollition  no se ha encontrado
+[2021.11.24-17.50.05:971][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Score  no se ha encontrado
+[2021.11.24-17.50.05:971][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Sphere1  no se ha encontrado
+[2021.11.24-17.50.05:972][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderIndex  no se ha encontrado
+[2021.11.24-17.50.05:972][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  index  no se ha encontrado
+[2021.11.24-17.50.05:972][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderIndex  no se ha encontrado
+[2021.11.24-17.50.05:973][124]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FP_Gun  no se ha encontrado
+[2021.11.24-17.50.06:071][124]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop S_PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.50.06:074][124]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop S_PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.50.07:835][124]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.11.24-17.50.08:122][124]LogWorld: Bringing World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.24-11.50.08
+[2021.11.24-17.50.08:127][124]LogWorld: Bringing up level for play took: 0.280612
+[2021.11.24-17.50.08:189][124]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.24-17.50.08:204][124]LogLoad: Took 3.129929 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2021.11.24-17.50.08:204][124]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.11.24-17.50.08:283][125]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Failed to find PlayerStart, Driver = GameNetDriver IpNetDriver_0
+[2021.11.24-17.50.08:283][125]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Failed to find PlayerStart
+[2021.11.24-17.50.08:283][125]LogNet: NetworkFailure: FailureReceived, Error: 'Failed to find PlayerStart'
+[2021.11.24-17.50.08:289][125]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: NULL:OZIEL-GARCIA-C7D2E4664CBA1120678AE5A7AC40DF5B, Channels: 2, Time: 2021.11.24-17.50.08
+[2021.11.24-17.50.08:289][125]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: NULL:OZIEL-GARCIA-C7D2E4664CBA1120678AE5A7AC40DF5B
+[2021.11.24-17.50.08:289][125]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_0
+[2021.11.24-17.50.08:531][126]LogRenderer: Reallocating scene render targets to support 640x480 Format 10 NumSamples 1 (Frame:1).
+[2021.11.24-17.50.11:353][126]LogNet: Browse: /Game/_main/Maps/MainMenu?closed
+[2021.11.24-17.50.11:382][126]LogNet: Connection failed; returning to Entry
+[2021.11.24-17.50.11:384][126]LogLoad: LoadMap: /Game/_main/Maps/MainMenu?closed
+[2021.11.24-17.50.11:385][126]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.11.24-17.50.11:388][126]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.11.24-17.50.11:388][126]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.11.24-17.50.11:393][126]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.11.24-17.50.11:398][126]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-17.50.11:426][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-17.50.11:521][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-17.50.11:582][126]LogNet: UNetConnection::PendingConnectionLost. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: None, Driver: GameNetDriver None, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: NULL:OZIEL-GARCIA-C7D2E4664CBA1120678AE5A7AC40DF5B bPendingDestroy=0 
+[2021.11.24-17.50.11:669][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.11.24-17.50.11:692][126]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.11.24-17.50.11:734][126]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.24-17.50.11:734][126]LogLoad: Game class is 'GameMode'
+[2021.11.24-17.50.11:736][126]LogWorld: Bringing World /Game/_main/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2021.11.24-11.50.11
+[2021.11.24-17.50.11:737][126]LogWorld: Bringing up level for play took: 0.001622
+[2021.11.24-17.50.11:738][126]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.24-17.50.11:741][126]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.24-17.50.11:741][126]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.24-17.50.11:741][126]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.24-17.50.11:745][126]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.24-17.50.11:746][126]LogLoad: Took 0.361171 seconds to LoadMap(/Game/_main/Maps/MainMenu)
+[2021.11.24-17.50.11:771][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.11.24-17.50.19:365][759]LogPackageName: SearchForPackageOnDisk took   0.682s to resolve Lobby.umap.
+[2021.11.24-17.50.19:366][759]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.11.24-17.50.19:366][759]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.11.24-17.50.19:615][759]LogPackageName: SearchForPackageOnDisk took   0.247s to resolve Lobby.umap.
+[2021.11.24-17.50.19:615][759]LogNet: Browse: /Game/_main/Maps/Lobby?listen
+[2021.11.24-17.50.19:615][759]LogLoad: LoadMap: /Game/_main/Maps/Lobby?listen
+[2021.11.24-17.50.19:615][759]LogWorld: BeginTearingDown for /Game/_main/Maps/MainMenu
+[2021.11.24-17.50.19:618][759]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-17.50.19:620][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-17.50.19:656][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-17.50.19:660][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.11.24-17.50.19:745][759]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_main/Lobby/PlayerButton.PlayerButton_C:playerInfo'. Unknown structure.
+[2021.11.24-17.50.19:746][759]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_S_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/Content/_main/Lobby/PlayerButton.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.50.19:797][759]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_main/Lobby/ConnectedPlayer.ConnectedPlayer_C:playerInfo'. Unknown structure.
+[2021.11.24-17.50.19:797][759]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_S_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../Users/ASUS/Documents/GitHub/DLVfinal/Content/_main/Lobby/ConnectedPlayer.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.50.20:186][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FP_Gun" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FP_Gun
+[2021.11.24-17.50.20:187][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderIndex" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderIndex
+[2021.11.24-17.50.20:187][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "index" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener index
+[2021.11.24-17.50.20:188][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderIndex" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderIndex
+[2021.11.24-17.50.20:188][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Sphere1" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Sphere1
+[2021.11.24-17.50.20:189][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PlayerCollition" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar PlayerCollition
+[2021.11.24-17.50.20:191][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Score" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Score
+[2021.11.24-17.50.20:191][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Score" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Score
+[2021.11.24-17.50.20:192][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PlayerCollition" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener PlayerCollition
+[2021.11.24-17.50.20:192][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] En componente golpear (Character_body)  does not have a valid matching component!
+[2021.11.24-17.50.20:193][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.20:194][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "amiAlive?" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener amiAlive?
+[2021.11.24-17.50.20:194][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "amiAlive?" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar amiAlive?
+[2021.11.24-17.50.20:195][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Character_body" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Character_body
+[2021.11.24-17.50.20:196][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.20:196][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.20:197][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "HealtBar" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener HealtBar
+[2021.11.24-17.50.20:197][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Character_body" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Character_body
+[2021.11.24-17.50.20:198][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "control rotation synchronized" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener control rotation synchronized
+[2021.11.24-17.50.20:198][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.20:199][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "control rotation synchronized" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar control rotation synchronized
+[2021.11.24-17.50.20:199][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "control rotation synchronized" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener control rotation synchronized
+[2021.11.24-17.50.20:200][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.20:200][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "control rotation synchronized" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar control rotation synchronized
+[2021.11.24-17.50.20:202][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "GunOffset" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener GunOffset
+[2021.11.24-17.50.20:203][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PauseWidget" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener PauseWidget
+[2021.11.24-17.50.20:203][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Can't connect pins  self  and  charRef : Self Object Reference is not compatible with Character Green Object Reference.
+[2021.11.24-17.50.20:204][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Can't connect pins  charRef  and  self : Character Green Object Reference is not compatible with Self Object Reference.
+[2021.11.24-17.50.20:204][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PauseWidget" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener
+[2021.11.24-17.50.20:204][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "PauseWidget" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar PauseWidget
+[2021.11.24-17.50.20:205][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Name" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Name
+[2021.11.24-17.50.20:205][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeDamagex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar timeDamagex2
+[2021.11.24-17.50.20:206][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "dobleDano" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar dobleDano
+[2021.11.24-17.50.20:206][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeDamagex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener timeDamagex2
+[2021.11.24-17.50.20:206][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeDamagex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar timeDamagex2
+[2021.11.24-17.50.20:207][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeScorex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar timeScorex2
+[2021.11.24-17.50.20:207][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "puntosDobles" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar puntosDobles
+[2021.11.24-17.50.20:207][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeScorex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener timeScorex2
+[2021.11.24-17.50.20:208][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "timeScorex2" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar timeScorex2
+[2021.11.24-17.50.20:208][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.20:208][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderHealth" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderHealth
+[2021.11.24-17.50.20:209][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderHealth" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderHealth
+[2021.11.24-17.50.20:209][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderName" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderName
+[2021.11.24-17.50.20:209][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.20:210][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.20:210][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "dobleDano" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener dobleDano
+[2021.11.24-17.50.20:210][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "BaseTurnRate" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener BaseTurnRate
+[2021.11.24-17.50.20:211][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "dobleDano" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar dobleDano
+[2021.11.24-17.50.20:211][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "puntosDobles" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar puntosDobles
+[2021.11.24-17.50.20:212][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.20:212][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.20:213][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.20:213][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderHealth" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderHealth
+[2021.11.24-17.50.20:213][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] En componente golpear (Mesh2P)  does not have a valid matching component!
+[2021.11.24-17.50.20:214][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Health
+[2021.11.24-17.50.20:214][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Health" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Health
+[2021.11.24-17.50.20:215][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "BaseLookUpRate" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener BaseLookUpRate
+[2021.11.24-17.50.20:216][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "TextRenderName" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener TextRenderName
+[2021.11.24-17.50.20:216][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Name" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Ajustar Name
+[2021.11.24-17.50.20:217][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "UsingMotionControllers?" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener UsingMotionControllers?
+[2021.11.24-17.50.20:217][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "VR_Marker" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener VR_Marker
+[2021.11.24-17.50.20:218][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "UsingMotionControllers?" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener UsingMotionControllers?
+[2021.11.24-17.50.20:218][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.20:218][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.20:219][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Mesh2P" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Mesh2P
+[2021.11.24-17.50.20:219][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "VR_Gun" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener VR_Gun
+[2021.11.24-17.50.20:219][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "Mesh2P" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener Mesh2P
+[2021.11.24-17.50.20:220][759]LogBlueprint: Warning: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] Could not find a variable named "FirstPersonCamera" in 'BP_BaseCharacter_C'.
+Make sure 'BP_BaseCharacter_C' has been compiled for  Obtener FirstPersonCamera
+[2021.11.24-17.50.20:224][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] This blueprint (self) is not a pauseMenu_C, therefore ' Meta ' must have a connection.
+[2021.11.24-17.50.20:225][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] This blueprint (self) is not a pauseMenu_C, therefore ' Meta ' must have a connection.
+[2021.11.24-17.50.20:225][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Meta ' must have a connection.
+[2021.11.24-17.50.20:382][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.20:382][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Mesh2P  no se ha encontrado
+[2021.11.24-17.50.20:382][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  VR_Gun  no se ha encontrado
+[2021.11.24-17.50.20:382][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Mesh2P  no se ha encontrado
+[2021.11.24-17.50.20:383][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.20:383][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.20:383][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  UsingMotionControllers?  no se ha encontrado
+[2021.11.24-17.50.20:383][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  VR_Marker  no se ha encontrado
+[2021.11.24-17.50.20:383][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  UsingMotionControllers?  no se ha encontrado
+[2021.11.24-17.50.20:384][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderName  no se ha encontrado
+[2021.11.24-17.50.20:384][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Name  no se ha encontrado
+[2021.11.24-17.50.20:384][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  BaseLookUpRate  no se ha encontrado
+[2021.11.24-17.50.20:385][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:385][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:385][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderHealth  no se ha encontrado
+[2021.11.24-17.50.20:385][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:386][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:386][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:386][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  puntosDobles  no se ha encontrado
+[2021.11.24-17.50.20:386][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  dobleDano  no se ha encontrado
+[2021.11.24-17.50.20:387][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PauseWidget  no se ha encontrado
+[2021.11.24-17.50.20:387][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  BaseTurnRate  no se ha encontrado
+[2021.11.24-17.50.20:387][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  dobleDano  no se ha encontrado
+[2021.11.24-17.50.20:387][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:387][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:388][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderName  no se ha encontrado
+[2021.11.24-17.50.20:388][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderHealth  no se ha encontrado
+[2021.11.24-17.50.20:388][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderHealth  no se ha encontrado
+[2021.11.24-17.50.20:388][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:389][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeScorex2  no se ha encontrado
+[2021.11.24-17.50.20:389][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  puntosDobles  no se ha encontrado
+[2021.11.24-17.50.20:389][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeScorex2  no se ha encontrado
+[2021.11.24-17.50.20:389][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeScorex2  no se ha encontrado
+[2021.11.24-17.50.20:389][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeDamagex2  no se ha encontrado
+[2021.11.24-17.50.20:390][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  dobleDano  no se ha encontrado
+[2021.11.24-17.50.20:390][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeDamagex2  no se ha encontrado
+[2021.11.24-17.50.20:391][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  timeDamagex2  no se ha encontrado
+[2021.11.24-17.50.20:392][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Name  no se ha encontrado
+[2021.11.24-17.50.20:392][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PauseWidget  no se ha encontrado
+[2021.11.24-17.50.20:392][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] El nodo de la variable  Obtener txtTitle  usa una meta no válida. Puede depender de un nodo que no esté conectado a la cadena de ejecución, y se haya eliminado.
+[2021.11.24-17.50.20:393][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] El nodo de la variable  Ajustar charRef  usa una meta no válida. Puede depender de un nodo que no esté conectado a la cadena de ejecución, y se haya eliminado.
+[2021.11.24-17.50.20:393][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PauseWidget  no se ha encontrado
+[2021.11.24-17.50.20:393][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  GunOffset  no se ha encontrado
+[2021.11.24-17.50.20:394][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  control rotation synchronized  no se ha encontrado
+[2021.11.24-17.50.20:394][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  control rotation synchronized  no se ha encontrado
+[2021.11.24-17.50.20:394][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.20:394][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  control rotation synchronized  no se ha encontrado
+[2021.11.24-17.50.20:394][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FirstPersonCamera  no se ha encontrado
+[2021.11.24-17.50.20:395][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  control rotation synchronized  no se ha encontrado
+[2021.11.24-17.50.20:395][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Character_body  no se ha encontrado
+[2021.11.24-17.50.20:395][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  HealtBar  no se ha encontrado
+[2021.11.24-17.50.20:395][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:395][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:396][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Character_body  no se ha encontrado
+[2021.11.24-17.50.20:396][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  amiAlive?  no se ha encontrado
+[2021.11.24-17.50.20:396][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  amiAlive?  no se ha encontrado
+[2021.11.24-17.50.20:396][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Health  no se ha encontrado
+[2021.11.24-17.50.20:397][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PlayerCollition  no se ha encontrado
+[2021.11.24-17.50.20:397][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Score  no se ha encontrado
+[2021.11.24-17.50.20:397][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  PlayerCollition  no se ha encontrado
+[2021.11.24-17.50.20:397][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Score  no se ha encontrado
+[2021.11.24-17.50.20:397][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  Sphere1  no se ha encontrado
+[2021.11.24-17.50.20:398][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderIndex  no se ha encontrado
+[2021.11.24-17.50.20:398][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  index  no se ha encontrado
+[2021.11.24-17.50.20:398][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  TextRenderIndex  no se ha encontrado
+[2021.11.24-17.50.20:399][759]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\Documents\GitHub\DLVfinal\Content\_main\Character\BP_BaseCharacter.uasset: [Compiler] La propiedad asociada con  FP_Gun  no se ha encontrado
+[2021.11.24-17.50.20:498][759]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop S_PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.50.20:500][759]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop S_PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.11.24-17.50.21:284][759]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2021.11.24-17.50.21:285][759]LogAIModule: Creating AISystem for world Lobby
+[2021.11.24-17.50.21:285][759]LogLoad: Game class is 'BP_LobbyGameMode_C'
+[2021.11.24-17.50.21:286][759]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.24-17.50.21:286][759]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.24-17.50.21:287][759]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.24-17.50.21:287][759]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.11.24-17.50.21:287][759]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.24-17.50.21:287][759]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 7777
+[2021.11.24-17.50.21:290][759]LogWorld: Bringing World /Game/_main/Maps/Lobby.Lobby up for play (max tick rate 0) at 2021.11.24-11.50.21
+[2021.11.24-17.50.21:290][759]LogWorld: Bringing up level for play took: 0.002148
+[2021.11.24-17.50.21:304][759]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.24-17.50.21:304][759]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.11.24-17.50.21:304][759]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.11.24-17.50.21:305][759]LogLoad: Took 1.690276 seconds to LoadMap(/Game/_main/Maps/Lobby)
+[2021.11.24-17.50.21:547][773]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.11.24-17.50.31:380][ 24]LogNet: NotifyAcceptingConnection accepted from: 192.168.100.3:64887
+[2021.11.24-17.50.31:381][ 24]LogHandshake: SendConnectChallenge. Timestamp: 12.723041, Cookie: 074141169126248224119073221000082175014113217209232220033193
+[2021.11.24-17.50.31:459][ 25]LogNet: NotifyAcceptingConnection accepted from: 192.168.100.3:64887
+[2021.11.24-17.50.31:459][ 25]LogHandshake: SendChallengeAck. InCookie: 074141169126248224119073221000082175014113217209232220033193
+[2021.11.24-17.50.31:459][ 25]LogNet: Server accepting post-challenge connection from: 192.168.100.3:64887
+[2021.11.24-17.50.31:460][ 25]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.24-17.50.31:460][ 25]LogNet: NotifyAcceptedConnection: Name: Lobby, TimeStamp: 11/24/21 11:50:31, [UNetConnection] RemoteAddr: 192.168.100.3:64887, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.24-17.50.31:460][ 25]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.100.3:64887, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.11.24-17.50.31:559][ 26]LogNet: NotifyAcceptingChannel Control 0 server World /Game/_main/Maps/Lobby.Lobby: Accepted
+[2021.11.24-17.50.31:559][ 26]LogNet: Remote platform little endian=1
+[2021.11.24-17.50.31:559][ 26]LogNet: This platform little endian=1
+[2021.11.24-17.50.31:665][ 27]LogNet: Login request: ?Name=OZIEL-GARCIA-E9B96613436ECB7D16DDF0B3D58E0AEF userId: NULL:OZIEL-GARCIA-E9B96613436ECB7D16DDF0B3D58E0AEF platform: NULL
+[2021.11.24-17.50.31:731][ 28]LogNet: Client netspeed is 100000
+[2021.11.24-17.50.33:423][124]LogNet: Join request: /Game/_main/Maps/MainMenu?Name=OZIEL-GARCIA-E9B96613436ECB7D16DDF0B3D58E0AEF?SplitscreenCount=1
+[2021.11.24-17.50.33:445][124]LogNet: Join succeeded: OZIEL-GARCIA-E9B9661
+[2021.11.24-17.50.33:923][151]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.11.24-17.50.41:785][303]LogGameMode: ProcessServerTravel: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.11.24-17.50.41:819][303]LogWorld: SeamlessTravel to: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.11.24-17.50.41:822][303]LogWorld: BeginTearingDown for /Game/_main/Maps/Lobby
+[2021.11.24-17.50.41:826][303]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=false, bCleanupResources=true
+[2021.11.24-17.50.41:829][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-17.50.41:860][303]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.24-17.50.41:874][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-17.50.41:886][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.24-17.50.41:892][303]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2021.11.24-17.50.41:892][303]LogAIModule: Creating AISystem for world Untitled
+[2021.11.24-17.50.41:893][303]LogWorld: Bringing World /Temp/Untitled_1.Untitled up for play (max tick rate 0) at 2021.11.24-11.50.41
+[2021.11.24-17.50.41:893][303]LogWorld: Bringing up level for play took: 0.000188
+[2021.11.24-17.50.41:893][303]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: BP_LobbyPC_C_0
+[2021.11.24-17.50.41:893][303]LogNet: Verbose: NotifyLoadedWorld Begin
+[2021.11.24-17.50.41:893][303]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2021.11.24-17.50.41:893][303]LogNet: Verbose: NotifyLoadedWorld End
+[2021.11.24-17.50.41:893][303]LogWorld: StartLoadingDestination to: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.11.24-17.50.42:943][334]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: Level /Temp/Untitled_1.Untitled:PersistentLevel NOT Supported.
+[2021.11.24-17.50.42:943][334]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: Level /Temp/Untitled_1.Untitled:PersistentLevel NOT Supported.
+[2021.11.24-17.50.43:081][341]LogNet: Server connection received: ActorChannelFailure [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.3:64887, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: BP_LobbyPC_C_1, Owner: BP_LobbyPC_C_1, UniqueId: NULL:OZIEL-GARCIA-E9B96613436ECB7D16DDF0B3D58E0AEF
+[2021.11.24-17.50.43:362][354]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2021.11.24-17.50.43:363][354]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-17.50.43:363][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-17.50.43:399][354]LogAudio: Display: Waited 35.586498 ms for audio thread.
+[2021.11.24-17.50.43:401][354]LogAudio: Display: Waited 37.963497 ms for audio thread.
+[2021.11.24-17.50.43:401][354]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.11.24-17.50.43:411][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-17.50.43:422][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.11.24-17.50.43:425][354]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.24-17.50.43:426][354]LogLoad: Game class is 'BP_GameplayGameMode_C'
+[2021.11.24-17.50.43:427][354]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2021.11.24-17.50.43:761][354]LogWorld: Bringing World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.24-11.50.43
+[2021.11.24-17.50.43:764][354]LogWorld: Bringing up level for play took: 0.336155
+[2021.11.24-17.50.43:764][354]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: BP_LobbyPC_C_0
+[2021.11.24-17.50.43:764][354]LogNet: Verbose: NotifyLoadedWorld Begin
+[2021.11.24-17.50.43:764][354]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2021.11.24-17.50.43:764][354]LogNet: Verbose: NotifyLoadedWorld End
+[2021.11.24-17.50.43:764][354]LogWorld: ----SeamlessTravel finished in 1.95 seconds ------
+[2021.11.24-17.50.43:767][354]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.11.24-17.50.43:777][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-17.50.43:783][354]PIE: Error: Only Local Player Controllers can be assigned to widgets. BP_LobbyPC_C_1 is not a Local Player Controller.
+[2021.11.24-17.50.43:827][355]PIE: Error: Only Local Player Controllers can be assigned to widgets. BP_LobbyPC_C_1 is not a Local Player Controller.
+[2021.11.24-17.50.44:736][356]LogGameMode: Warning: InitSeamlessTravelPlayer: Could not find a starting spot
+[2021.11.24-17.50.48:418][441]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.11.24-17.52.04:904][651]LogSlate: Window 'escenario (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.11.24-17.52.04:909][651]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-17.52.04:917][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-17.52.04:918][651]LogEngine: All Windows Closed
+[2021.11.24-17.52.04:918][651]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.11.24-17.52.04:919][651]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.11.24-17.52.04:921][652]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.24-17.52.04:931][652]LogInit: Display: PreExit Game.
+[2021.11.24-17.52.05:031][652]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.11.24-17.52.05:031][652]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.11.24-17.52.05:031][652]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.11.24-17.52.05:032][652]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 192.168.100.3:64887, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: BP_GameplayPC_C_1, Owner: BP_GameplayPC_C_1, UniqueId: NULL:OZIEL-GARCIA-E9B96613436ECB7D16DDF0B3D58E0AEF
+[2021.11.24-17.52.05:032][652]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.100.3:64887, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: BP_GameplayPC_C_1, Owner: BP_GameplayPC_C_1, UniqueId: NULL:OZIEL-GARCIA-E9B96613436ECB7D16DDF0B3D58E0AEF, Channels: 11, Time: 2021.11.24-17.52.05
+[2021.11.24-17.52.05:032][652]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.3:64887, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: BP_GameplayPC_C_1, Owner: BP_GameplayPC_C_1, UniqueId: NULL:OZIEL-GARCIA-E9B96613436ECB7D16DDF0B3D58E0AEF
+[2021.11.24-17.52.05:033][652]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.11.24-17.52.05:039][652]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-17.52.05:074][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-17.52.05:396][652]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.11.24-17.52.05:396][652]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.11.24-17.52.05:396][652]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2021.11.24-17.52.05:406][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-17.52.05:410][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-17.52.05:457][652]LogAudio: Display: Audio Device Manager Shutdown
+[2021.11.24-17.52.05:483][652]LogExit: Preparing to exit.
+[2021.11.24-17.52.05:770][652]LogMoviePlayer: Shutting down movie player
+[2021.11.24-17.52.05:910][652]LogDeviceProfile: Device profile begin destroy: [00000263334EE300] Windows
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [00000263334EE400] Default__DeviceProfile
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447D500] WindowsNoEditor
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [00000263334ED900] WindowsServer
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447DE00] WindowsClient
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [00000263334EC200] IOS
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447F100] iPadAir
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [00000263334EC100] iPadAir2
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334429A00] IPadPro
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334429B00] iPadAir3
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447FD00] iPadAir4
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633442B200] iPadMini2
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447E000] iPadMini3
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334429700] iPadMini4
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447E100] iPadMini5
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334424F00] iPhone6
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334425000] iPodTouch6
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [00000263334ED300] iPhone7
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [00000263334ED200] iPodTouch7
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447E300] iPhone5S
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334427D00] iPhone6Plus
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447C100] iPhone6S
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334424900] iPhone6SPlus
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447F400] iPhone7Plus
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334427600] iPhoneSE
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447C700] iPhone8
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334425500] iPhone8Plus
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447CF00] iPhoneX
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334424B00] iPhoneXS
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447E700] iPhoneXSMax
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334426200] iPhoneXR
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [000002633447F900] iPhone11
+[2021.11.24-17.52.05:911][652]LogDeviceProfile: Device profile begin destroy: [0000026334427C00] iPhone11Pro
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447F600] iPhone11ProMax
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [0000026334426700] iPhoneSE2
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447FA00] iPhone12Mini
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EE200] iPhone12
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447F500] iPhone12Pro
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EC800] iPhone12ProMax
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447DA00] iPadPro105
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EEB00] iPadPro129
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447C500] iPadPro97
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EED00] iPadPro2_129
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447FF00] iPad5
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EE600] iPad6
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447C900] iPad7
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EE500] iPad8
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447D800] iPadPro11
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EE900] iPadPro2_11
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447EF00] iPadPro3_129
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EC500] iPadPro4_129
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447C800] AppleTV
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334ECF00] AppleTV4K
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447E200] TVOS
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334ED800] Mac
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447CC00] MacClient
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EE700] MacNoEditor
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447E800] MacServer
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334ED500] Linux
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447FB00] LinuxAArch64
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EDD00] LinuxNoEditor
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447DD00] LinuxAArch64NoEditor
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EC700] LinuxClient
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447D600] LinuxAArch64Client
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EDC00] LinuxServer
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447F700] LinuxAArch64Server
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EEF00] Android
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633447C300] Android_Low
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [00000263334EC600] Android_Mid
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633442A300] Android_High
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [0000026334425600] Android_Default
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [0000026334429000] Android_Adreno4xx
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [0000026334425C00] Android_Adreno5xx_Low
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633442B600] Android_Adreno5xx
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [0000026334424500] Android_Adreno6xx
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633442BC00] Android_Adreno6xx_Vulkan
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [0000026334425F00] Android_Mali_T6xx
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633442A000] Android_Mali_T7xx
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [0000026334425E00] Android_Mali_T8xx
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633442A100] Android_Mali_G71
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [0000026334425400] Android_Mali_G72
+[2021.11.24-17.52.05:912][652]LogDeviceProfile: Device profile begin destroy: [000002633442BD00] Android_Mali_G72_Vulkan
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334424C00] Android_Mali_G76
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [000002633442A700] Android_Mali_G76_Vulkan
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334427100] Android_Mali_G77
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334429100] Android_Mali_G77_Vulkan
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334427800] Android_Vulkan_SM5
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [000002633442B400] Android_PowerVR_G6xxx
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334426300] Android_PowerVR_GT7xxx
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [000002633442AA00] Android_PowerVR_GE8xxx
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334426800] Android_PowerVR_GM9xxx
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334429C00] Android_PowerVR_GM9xxx_Vulkan
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334426A00] Android_TegraK1
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334429900] Android_Unknown_Vulkan
+[2021.11.24-17.52.05:913][652]LogDeviceProfile: Device profile begin destroy: [0000026334426E00] Lumin
+[2021.11.24-17.52.05:914][652]LogDeviceProfile: Device profile begin destroy: [000002633442A400] Lumin_Desktop
+[2021.11.24-17.52.05:914][652]LogDeviceProfile: Device profile begin destroy: [0000026334425100] HoloLens
+[2021.11.24-17.52.06:088][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-17.52.06:152][652]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.24-17.52.06:200][652]LogExit: Game engine shut down
+[2021.11.24-17.52.06:740][652]LogExit: Object subsystem successfully closed.
+[2021.11.24-17.52.06:833][652]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.11.24-17.52.07:022][652]LogModuleManager: Shutting down and abandoning module AIModule (510)
+[2021.11.24-17.52.07:023][652]LogModuleManager: Shutting down and abandoning module GameplayDebugger (509)
+[2021.11.24-17.52.07:023][652]LogModuleManager: Shutting down and abandoning module AITestSuite (507)
+[2021.11.24-17.52.07:024][652]LogModuleManager: Shutting down and abandoning module NavigationSystem (505)
+[2021.11.24-17.52.07:024][652]LogModuleManager: Shutting down and abandoning module Voice (502)
+[2021.11.24-17.52.07:025][652]LogModuleManager: Shutting down and abandoning module AnimGraph (498)
+[2021.11.24-17.52.07:025][652]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2021.11.24-17.52.07:025][652]LogModuleManager: Shutting down and abandoning module SequenceRecorder (494)
+[2021.11.24-17.52.07:026][652]LogModuleManager: Shutting down and abandoning module AutomationController (492)
+[2021.11.24-17.52.07:028][652]LogModuleManager: Shutting down and abandoning module AutomationWorker (490)
+[2021.11.24-17.52.07:028][652]LogModuleManager: Shutting down and abandoning module SteamVREditor (488)
+[2021.11.24-17.52.07:029][652]LogModuleManager: Shutting down and abandoning module ToolMenus (487)
+[2021.11.24-17.52.07:029][652]LogModuleManager: Shutting down and abandoning module OculusMR (484)
+[2021.11.24-17.52.07:029][652]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2021.11.24-17.52.07:029][652]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2021.11.24-17.52.07:029][652]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (478)
+[2021.11.24-17.52.07:029][652]LogModuleManager: Shutting down and abandoning module WebMMedia (476)
+[2021.11.24-17.52.07:029][652]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (474)
+[2021.11.24-17.52.07:030][652]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (472)
+[2021.11.24-17.52.07:030][652]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (470)
+[2021.11.24-17.52.07:030][652]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (468)
+[2021.11.24-17.52.07:030][652]LogModuleManager: Shutting down and abandoning module PlanarCut (466)
+[2021.11.24-17.52.07:031][652]LogModuleManager: Shutting down and abandoning module CharacterAI (464)
+[2021.11.24-17.52.07:031][652]LogModuleManager: Shutting down and abandoning module SessionServices (462)
+[2021.11.24-17.52.07:031][652]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (460)
+[2021.11.24-17.52.07:031][652]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2021.11.24-17.52.07:034][652]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2021.11.24-17.52.07:034][652]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2021.11.24-17.52.07:035][652]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2021.11.24-17.52.07:036][652]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2021.11.24-17.52.07:036][652]LogModuleManager: Shutting down and abandoning module PortalServices (448)
+[2021.11.24-17.52.07:036][652]LogModuleManager: Shutting down and abandoning module PortalRpc (446)
+[2021.11.24-17.52.07:036][652]LogModuleManager: Shutting down and abandoning module MessagingRpc (444)
+[2021.11.24-17.52.07:036][652]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (442)
+[2021.11.24-17.52.07:036][652]LogModuleManager: Shutting down and abandoning module AudioMixerCore (441)
+[2021.11.24-17.52.07:036][652]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (438)
+[2021.11.24-17.52.07:036][652]LogModuleManager: Shutting down and abandoning module ProfilerService (436)
+[2021.11.24-17.52.07:201][652]LogModuleManager: Shutting down and abandoning module TaskGraph (434)
+[2021.11.24-17.52.07:202][652]LogModuleManager: Shutting down and abandoning module OculusInput (432)
+[2021.11.24-17.52.07:202][652]LogModuleManager: Shutting down and abandoning module Synthesis (430)
+[2021.11.24-17.52.07:204][652]LogModuleManager: Shutting down and abandoning module MotoSynth (428)
+[2021.11.24-17.52.07:204][652]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (426)
+[2021.11.24-17.52.07:204][652]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (424)
+[2021.11.24-17.52.07:204][652]LogModuleManager: Shutting down and abandoning module GooglePAD (422)
+[2021.11.24-17.52.07:204][652]LogModuleManager: Shutting down and abandoning module EditableMesh (420)
+[2021.11.24-17.52.07:205][652]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (418)
+[2021.11.24-17.52.07:205][652]LogModuleManager: Shutting down and abandoning module CableComponent (416)
+[2021.11.24-17.52.07:205][652]LogModuleManager: Shutting down and abandoning module AudioCapture (414)
+[2021.11.24-17.52.07:205][652]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (413)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module AssetTags (410)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (408)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (406)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module AppleImageUtils (404)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module AndroidPermission (402)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (400)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module TemplateSequence (398)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module MediaCompositing (396)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module ImgMedia (394)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (392)
+[2021.11.24-17.52.07:206][652]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (390)
+[2021.11.24-17.52.07:207][652]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (388)
+[2021.11.24-17.52.07:207][652]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (386)
+[2021.11.24-17.52.07:207][652]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (384)
+[2021.11.24-17.52.07:207][652]LogModuleManager: Shutting down and abandoning module MeshConversion (382)
+[2021.11.24-17.52.07:207][652]LogModuleManager: Shutting down and abandoning module DynamicMesh (380)
+[2021.11.24-17.52.07:208][652]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (378)
+[2021.11.24-17.52.07:209][652]LogModuleManager: Shutting down and abandoning module GeometricObjects (376)
+[2021.11.24-17.52.07:210][652]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (374)
+[2021.11.24-17.52.07:210][652]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (373)
+[2021.11.24-17.52.07:211][652]LogModuleManager: Shutting down and abandoning module GeometryCache (370)
+[2021.11.24-17.52.07:211][652]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (369)
+[2021.11.24-17.52.07:211][652]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (366)
+[2021.11.24-17.52.07:211][652]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (365)
+[2021.11.24-17.52.07:211][652]LogModuleManager: Shutting down and abandoning module ChaosNiagara (362)
+[2021.11.24-17.52.07:212][652]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (361)
+[2021.11.24-17.52.07:212][652]LogModuleManager: Shutting down and abandoning module AutomationUtils (358)
+[2021.11.24-17.52.07:212][652]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2021.11.24-17.52.07:212][652]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (354)
+[2021.11.24-17.52.07:213][652]LogModuleManager: Shutting down and abandoning module HotReload (353)
+[2021.11.24-17.52.07:215][652]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (352)
+[2021.11.24-17.52.07:215][652]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (348)
+[2021.11.24-17.52.07:216][652]LogModuleManager: Shutting down and abandoning module UObjectPlugin (346)
+[2021.11.24-17.52.07:216][652]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (344)
+[2021.11.24-17.52.07:217][652]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (342)
+[2021.11.24-17.52.07:221][652]LogModuleManager: Shutting down and abandoning module SourceControl (341)
+[2021.11.24-17.52.07:222][652]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (338)
+[2021.11.24-17.52.07:222][652]LogModuleManager: Shutting down and abandoning module TcpMessaging (336)
+[2021.11.24-17.52.07:324][652]LogModuleManager: Shutting down and abandoning module UdpMessaging (334)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module SoundFields (332)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module SignificanceManager (330)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (328)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (326)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (324)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (320)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (318)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (316)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module ActorSequence (314)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (312)
+[2021.11.24-17.52.07:425][652]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (310)
+[2021.11.24-17.52.07:426][652]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (308)
+[2021.11.24-17.52.07:426][652]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (306)
+[2021.11.24-17.52.07:426][652]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (304)
+[2021.11.24-17.52.07:426][652]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.11.24-17.52.07:426][652]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (302)
+[2021.11.24-17.52.07:427][652]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (300)
+[2021.11.24-17.52.07:427][652]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (298)
+[2021.11.24-17.52.07:428][652]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (296)
+[2021.11.24-17.52.07:428][652]LogModuleManager: Shutting down and abandoning module MagicLeapController (294)
+[2021.11.24-17.52.07:432][652]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.11.24-17.52.07:432][652]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (292)
+[2021.11.24-17.52.07:432][652]LogModuleManager: Shutting down and abandoning module MagicLeapAR (290)
+[2021.11.24-17.52.07:432][652]LogModuleManager: Shutting down and abandoning module AugmentedReality (289)
+[2021.11.24-17.52.07:432][652]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (286)
+[2021.11.24-17.52.07:432][652]LogModuleManager: Shutting down and abandoning module Niagara (284)
+[2021.11.24-17.52.07:436][652]LogModuleManager: Shutting down and abandoning module SignalProcessing (283)
+[2021.11.24-17.52.07:437][652]LogModuleManager: Shutting down and abandoning module NiagaraEditor (281)
+[2021.11.24-17.52.07:439][652]LogModuleManager: Shutting down and abandoning module NiagaraCore (278)
+[2021.11.24-17.52.07:439][652]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2021.11.24-17.52.07:439][652]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2021.11.24-17.52.07:440][652]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2021.11.24-17.52.07:442][652]LogModuleManager: Shutting down and abandoning module TreeMap (271)
+[2021.11.24-17.52.07:443][652]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (268)
+[2021.11.24-17.52.07:443][652]LogModuleManager: Shutting down and abandoning module AnimationSharing (266)
+[2021.11.24-17.52.07:443][652]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (264)
+[2021.11.24-17.52.07:443][652]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (262)
+[2021.11.24-17.52.07:443][652]LogModuleManager: Shutting down and abandoning module Paper2D (260)
+[2021.11.24-17.52.07:444][652]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (258)
+[2021.11.24-17.52.07:465][652]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (256)
+[2021.11.24-17.52.07:465][652]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (254)
+[2021.11.24-17.52.07:466][652]LogModuleManager: Shutting down and abandoning module PacketHandler (252)
+[2021.11.24-17.52.07:466][652]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (250)
+[2021.11.24-17.52.07:466][652]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (248)
+[2021.11.24-17.52.07:469][652]LogModuleManager: Shutting down and abandoning module MediaAssets (246)
+[2021.11.24-17.52.07:469][652]LogModuleManager: Shutting down and abandoning module Overlay (244)
+[2021.11.24-17.52.07:469][652]LogModuleManager: Shutting down and abandoning module OverlayEditor (243)
+[2021.11.24-17.52.07:469][652]LogModuleManager: Shutting down and abandoning module VREditor (240)
+[2021.11.24-17.52.07:470][652]LogModuleManager: Shutting down and abandoning module StringTableEditor (238)
+[2021.11.24-17.52.07:472][652]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (236)
+[2021.11.24-17.52.07:472][652]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (234)
+[2021.11.24-17.52.07:473][652]LogModuleManager: Shutting down and abandoning module FunctionalTesting (232)
+[2021.11.24-17.52.07:474][652]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (230)
+[2021.11.24-17.52.07:476][652]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (229)
+[2021.11.24-17.52.07:478][652]LogModuleManager: Shutting down and abandoning module UMG (226)
+[2021.11.24-17.52.07:478][652]LogModuleManager: Shutting down and abandoning module UMGEditor (225)
+[2021.11.24-17.52.07:478][652]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2021.11.24-17.52.07:478][652]LogModuleManager: Shutting down and abandoning module MessageLog (221)
+[2021.11.24-17.52.07:479][652]LogModuleManager: Shutting down and abandoning module SlateReflector (216)
+[2021.11.24-17.52.07:485][652]LogModuleManager: Shutting down and abandoning module Slate (214)
+[2021.11.24-17.52.07:485][652]LogModuleManager: Shutting down and abandoning module SlateCore (212)
+[2021.11.24-17.52.07:487][652]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (210)
+[2021.11.24-17.52.07:487][652]LogModuleManager: Shutting down and abandoning module UnrealEd (208)
+[2021.11.24-17.52.07:487][652]LogModuleManager: Shutting down and abandoning module MRMesh (206)
+[2021.11.24-17.52.07:488][652]LogModuleManager: Shutting down and abandoning module Messaging (204)
+[2021.11.24-17.52.07:488][652]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (202)
+[2021.11.24-17.52.07:488][652]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (200)
+[2021.11.24-17.52.07:488][652]LogModuleManager: Shutting down and abandoning module XAudio2 (198)
+[2021.11.24-17.52.07:489][652]LogModuleManager: Shutting down and abandoning module Networking (196)
+[2021.11.24-17.52.07:489][652]LogModuleManager: Shutting down and abandoning module Core (194)
+[2021.11.24-17.52.07:489][652]LogModuleManager: Shutting down and abandoning module MaterialEditor (192)
+[2021.11.24-17.52.07:491][652]LogModuleManager: Shutting down and abandoning module MovieSceneTools (190)
+[2021.11.24-17.52.07:493][652]LogModuleManager: Shutting down and abandoning module EditorStyle (189)
+[2021.11.24-17.52.07:499][652]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2021.11.24-17.52.07:499][652]LogModuleManager: Shutting down and abandoning module MeshBuilder (184)
+[2021.11.24-17.52.07:499][652]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2021.11.24-17.52.07:502][652]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2021.11.24-17.52.07:504][652]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2021.11.24-17.52.07:504][652]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (179)
+[2021.11.24-17.52.07:504][652]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (177)
+[2021.11.24-17.52.07:505][652]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2021.11.24-17.52.07:509][652]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2021.11.24-17.52.07:510][652]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2021.11.24-17.52.07:510][652]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (164)
+[2021.11.24-17.52.07:510][652]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (162)
+[2021.11.24-17.52.07:511][652]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2021.11.24-17.52.07:513][652]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2021.11.24-17.52.07:514][652]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2021.11.24-17.52.07:519][652]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2021.11.24-17.52.07:520][652]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2021.11.24-17.52.07:521][652]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2021.11.24-17.52.07:522][652]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2021.11.24-17.52.07:523][652]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2021.11.24-17.52.07:524][652]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2021.11.24-17.52.07:524][652]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (143)
+[2021.11.24-17.52.07:525][652]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2021.11.24-17.52.07:525][652]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2021.11.24-17.52.07:527][652]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2021.11.24-17.52.07:527][652]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2021.11.24-17.52.07:527][652]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2021.11.24-17.52.07:528][652]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2021.11.24-17.52.07:529][652]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2021.11.24-17.52.07:529][652]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (127)
+[2021.11.24-17.52.07:530][652]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (125)
+[2021.11.24-17.52.07:530][652]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (123)
+[2021.11.24-17.52.07:530][652]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (121)
+[2021.11.24-17.52.07:531][652]LogModuleManager: Shutting down and abandoning module InputCore (118)
+[2021.11.24-17.52.07:531][652]LogModuleManager: Shutting down and abandoning module Settings (116)
+[2021.11.24-17.52.07:531][652]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.11.24-17.52.07:531][652]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.11.24-17.52.07:531][652]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.11.24-17.52.07:532][652]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.11.24-17.52.07:532][652]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.11.24-17.52.07:532][652]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.11.24-17.52.07:533][652]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.11.24-17.52.07:533][652]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.11.24-17.52.07:534][652]LogHMD: Freeing OpenVRDLLHandle.
+[2021.11.24-17.52.07:534][652]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.11.24-17.52.07:534][652]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.11.24-17.52.07:534][652]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.11.24-17.52.07:535][652]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2021.11.24-17.52.07:535][652]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2021.11.24-17.52.07:535][652]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2021.11.24-17.52.07:540][652]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.11.24-17.52.07:542][652]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.11.24-17.52.07:590][652]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.11.24-17.52.07:590][652]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.11.24-17.52.07:608][652]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.11.24-17.52.07:626][652]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.11.24-17.52.07:630][652]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.11.24-17.52.07:631][652]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.11.24-17.52.07:631][652]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.11.24-17.52.07:631][652]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.11.24-17.52.07:631][652]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.11.24-17.52.07:631][652]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.11.24-17.52.07:632][652]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.11.24-17.52.07:632][652]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.11.24-17.52.07:633][652]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.11.24-17.52.07:633][652]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.11.24-17.52.07:634][652]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.11.24-17.52.07:634][652]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.11.24-17.52.07:637][652]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.11.24-17.52.07:638][652]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.11.24-17.52.07:638][652]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.11.24-17.52.07:638][652]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.11.24-17.52.07:639][652]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.11.24-17.52.07:642][652]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.11.24-17.52.07:647][652]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.11.24-17.52.07:649][652]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.11.24-17.52.07:650][652]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.11.24-17.52.07:650][652]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.11.24-17.52.07:650][652]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.11.24-17.52.07:654][652]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.11.24-17.52.07:655][652]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.11.24-17.52.07:655][652]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.11.24-17.52.07:656][652]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.11.24-17.52.07:657][652]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.11.24-17.52.07:657][652]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.11.24-17.52.07:657][652]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.11.24-17.52.07:658][652]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.11.24-17.52.07:658][652]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.11.24-17.52.07:659][652]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.11.24-17.52.07:659][652]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.11.24-17.52.07:661][652]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.11.24-17.52.07:662][652]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.11.24-17.52.07:667][652]LogD3D11RHI: Shutdown
+[2021.11.24-17.52.07:667][652]LogD3D11RHI: CleanupD3DDevice
+[2021.11.24-17.52.07:758][652]LogExit: Exiting.
+[2021.11.24-17.52.07:772][652]Log file closed, 11/24/21 11:52:07
