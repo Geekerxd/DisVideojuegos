@@ -1,0 +1,1345 @@
+﻿Log file open, 11/23/21 18:53:47
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: escenario
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 15.855096
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cleaning working directory: C:/Users/edgar/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.24-00.53.55:443][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.24-00.53.55:443][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.24-00.53.55:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Engine.ini]
+[2021.11.24-00.53.55:443][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.24-00.53.55:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Engine.ini]
+[2021.11.24-00.53.55:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Engine.ini]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Engine.ini]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.24-00.53.55:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Engine.ini]
+[2021.11.24-00.53.55:444][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Engine.ini]
+[2021.11.24-00.53.55:491][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.24-00.53.55:491][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.24-00.53.55:492][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.24-00.53.55:492][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.24-00.53.55:492][  0]LogHAL: Display: Platform has ~ 16 GB [17041690624 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.24-00.53.55:492][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.24-00.53.55:492][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.24-00.53.55:492][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.24-00.53.55:493][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-00.53.55:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.24-00.53.55:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.24-00.53.55:494][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.24-00.53.55:494][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.24-00.53.55:518][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.24-00.53.55:518][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.24-00.53.55:518][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.24-00.53.55:518][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Engine.ini]
+[2021.11.24-00.53.55:518][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Config/Windows/Editor.ini]
+[2021.11.24-00.53.55:518][  0]LogInit: Computer: LAPTOP-PT2M9343
+[2021.11.24-00.53.55:518][  0]LogInit: User: edgar
+[2021.11.24-00.53.55:518][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.24-00.53.55:518][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.24-00.53.55:518][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.11.24-00.53.55:518][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.24-00.53.55:518][  0]LogMemory: Process Physical Memory: 137.24 MB used, 137.25 MB peak
+[2021.11.24-00.53.55:518][  0]LogMemory: Process Virtual Memory: 119.15 MB used, 119.15 MB peak
+[2021.11.24-00.53.55:518][  0]LogMemory: Physical Memory: 10566.04 MB used,  5686.19 MB free, 16252.22 MB total
+[2021.11.24-00.53.55:518][  0]LogMemory: Virtual Memory: 134206880.00 MB used,  10846.27 MB free, 134217728.00 MB total
+[2021.11.24-00.53.55:526][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.24-00.53.56:469][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.24-00.53.56:496][  0]LogInit: Using OS detected language (en-US).
+[2021.11.24-00.53.56:496][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.24-00.53.57:104][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.24-00.53.58:232][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.24-00.53.58:375][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-00.53.58:769][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.24-00.53.58:769][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.24-00.54.06:399][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.11.24-00.54.06:399][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.24-00.54.06:399][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.24-00.54.06:399][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.24-00.54.06:675][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.11.24-00.54.06:675][  0]LogD3D11RHI:       4021/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.24-00.54.06:685][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.11.24-00.54.06:685][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.24-00.54.06:688][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.24-00.54.06:688][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.24-00.54.06:688][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.24-00.54.06:749][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.24-00.54.06:749][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2021.11.24-00.54.06:749][  0]LogWindows: EnumDisplayDevices:
+[2021.11.24-00.54.06:749][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.11.24-00.54.06:750][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2021.11.24-00.54.06:750][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.24-00.54.06:750][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.11.24-00.54.06:766][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.11.24-00.54.06:766][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.11.24-00.54.06:766][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.11.24-00.54.06:766][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2021.11.24-00.54.06:921][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.24-00.54.06:922][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.24-00.54.06:922][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.24-00.54.07:609][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.24-00.54.07:614][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.24-00.54.09:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.24-00.54.09:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.24-00.54.09:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.24-00.54.09:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.24-00.54.09:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.24-00.54.09:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.24-00.54.09:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.24-00.54.09:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.24-00.54.09:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.24-00.54.09:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.24-00.54.09:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.24-00.54.09:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.24-00.54.09:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.24-00.54.09:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.24-00.54.09:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.24-00.54.09:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.24-00.54.09:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.24-00.54.09:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.24-00.54.09:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.24-00.54.09:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.24-00.54.09:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.24-00.54.09:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.24-00.54.09:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.24-00.54.09:877][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.24-00.54.10:083][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.24-00.54.11:937][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.24-00.54.11:937][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Intermediate/Shaders/WorkingDirectory/8120/).
+[2021.11.24-00.54.11:937][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/edgar/AppData/Local/Temp/UnrealShaderWorkingDir/4A14F61E47BCAA642426358D8F8B7A83/'.
+[2021.11.24-00.54.11:938][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.24-00.54.11:938][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.24-00.54.17:672][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.24-00.54.17:790][  0]LogDerivedDataCache: Loaded boot cache 0.12s 77MB C:/Users/edgar/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.24-00.54.17:790][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/edgar/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.24-00.54.17:790][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.24-00.54.17:790][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.24-00.54.17:790][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.24-00.54.17:790][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.24-00.54.17:877][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.24-00.54.17:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.24-00.54.17:877][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.24-00.54.17:894][  0]LogDerivedDataCache: Speed tests for C:/Users/edgar/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.11.24-00.54.17:894][  0]LogDerivedDataCache: Display: Performance to C:/Users/edgar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.29ms. RandomReadSpeed=157.35MBs, RandomWriteSpeed=114.28MBs. Assigned SpeedClass 'Local'
+[2021.11.24-00.54.17:895][  0]LogDerivedDataCache: Using Local data cache path C:/Users/edgar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.24-00.54.17:895][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.24-00.54.17:895][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.24-00.54.17:961][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.24-00.54.18:102][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.24-00.54.18:998][  0]LogAssetRegistry: FAssetRegistry took 0.0168 seconds to start up
+[2021.11.24-00.54.22:329][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.24-00.54.22:330][  0]LogInit: Active device profile: [000002641B05B600][0000026409D66AC0 49] Windows
+[2021.11.24-00.54.22:330][  0]LogInit: Profiles: [000002641B05B600][0000026409D66AC0 49] Windows, [000002641B040C00][0000026409D6EC40 49] WindowsNoEditor, [000002641B058C00][0000026409D72DC0 49] WindowsServer, [000002641B042E00][0000026419DC2F40 49] WindowsClient, [000002641B05AD00][0000026419DC70C0 49] IOS, [000002641B041500][0000026419DCB240 49] iPadAir, [000002641B059400][0000026419DCF3C0 49] iPadAir2, [000002641B008800][0000026409D6B640 49] IPadPro, [000002641B008900][0000026419DD3680 49] iPadAir3, [000002641B05A700][0000026419DD77C0 49] iPadAir4, [000002641B00B600][0000026419DDB900 49] iPadMini2, [000002641B059900][0000026419DDFA40 49] iPadMini3, [000002641B009F00][0000026419DE7BC0 49] iPadMini4, [000002641B05BB00][0000026419DEBD40 49] iPadMini5, [000002641B040900][0000026419DF2340 49] iPhone6, [000002641B041D00][0000026419DEE380 49] iPodTouch6, [000002641AFF3E00][0000026419DFA640 49] iPhone7, [000002641AFF3F00][0000026419DF6680 49] iPodTouch7, [000002641B040500][0000026419DFE800 49] iPhone5S, [000002641AFF1100][0000026419E02980 49] iPhone6Plus, [000002641B040300][0000026419E06B00 49] iPhone6S, [000002641AFF2800][0000026419E0AC80 49] iPhone6SPlus, [000002641B043900][0000026419E0EE00 49] iPhone7Plus, [000002641AFF1900][0000026419E12F80 49] iPhoneSE, [000002641B043400][0000026419E17100 49] iPhone8, [000002641AFF3D00][0000026419E1B280 49] iPhone8Plus, [000002641B043E00][0000026419E1F400 49] iPhoneX, [000002641AFF0C00][0000026419E23580 49] iPhoneXS, [000002641B042800][0000026419E27700 49] iPhoneXSMax, [000002641AFF1600][0000026419DE3840 49] iPhoneXR, [000002641B042400][0000026419E2B980 49] iPhone11, [000002641AFF2700][0000026419E2FAC0 49] iPhone11Pro, [000002641B041F00][0000026419E37C40 49] iPhone11ProMax, [000002641AFF1800][0000026419E3A100 49] iPhoneSE2, [000002641B040800][0000026419E3E280 49] iPhone12Mini, [000002641AFF1300][0000026419E42400 49] iPhone12, [000002641B040700][0000026419E46580 49] iPhone12Pro, [000002641AFF2200][0000026419E4A700 49] iPhone12ProMax, [000002641B040100][0000026419E4E880 49] iPadPro105, [000002641AFF0D00][0000026419E52A00 49] iPadPro129, [000002641B041300][0000026419E56B80 49] iPadPro97, [000002641AFF1000][0000026419E5AD00 49] iPadPro2_129, [000002641B043F00][0000026419E5EE80 49] iPad5, [000002641AFF1B00][0000026419E63000 49] iPad6, [000002641B040D00][0000026419E67180 49] iPad7, [000002641AFF2600][0000026419E6B300 49] iPad8, [000002641B040600][0000026419E6F480 49] iPadPro11, [000002641AFF3300][0000026419E73600 49] iPadPro2_11, [000002641B041000][0000026419E77780 49] iPadPro3_129, [000002641AFF0700][0000026419E338C0 49] iPadPro4_129, [000002641B041A00][0000026419E7BA00 49] AppleTV, [000002641AFF0F00][0000026419E7FB40 49] AppleTV4K, [000002641B042D00][0000026419E87CC0 49] TVOS, [000002641AFF3700][0000026419E8A180 49] Mac, [000002641B042300][000002641BEA0300 49] MacClient, [000002641AFF1200][000002641BEA4480 49] MacNoEditor, [000002641B043800][000002641BEA8600 49] MacServer, [000002641AFF3500][000002641BEAC780 49] Linux, [000002641B043600][000002641BEB0900 49] LinuxAArch64, [000002641AFF2C00][000002641BEB4A80 49] LinuxNoEditor, [000002641B043500][000002641BEB8C00 49] LinuxAArch64NoEditor, [000002641AFF2F00][000002641BEBCD80 49] LinuxClient, [000002641B043D00][000002641BEC0F00 49] LinuxAArch64Client, [000002641B00A200][000002641BEC5080 49] LinuxServer, [000002641B0C9000][000002641BEC9200 49] LinuxAArch64Server, [000002641B00AC00][000002641BECD380 49] Android, [000002641B0C9500][000002641BED1500 49] Android_Low, [000002641B00BA00][000002641BED5680 49] Android_Mid, [000002641B0C9600][000002641BED9800 49] Android_High, [000002641B00AF00][0000026419E83940 49] Android_Default, [000002641B0C8F00][000002641BEDDA80 49] Android_Adreno4xx, [000002641B009E00][000002641BEE1BC0 49] Android_Adreno5xx_Low, [000002641B0C8100][000002641BEE5D00 49] Android_Adreno5xx, [000002641B008A00][000002641BEEC1C0 49] Android_Adreno6xx, [000002641B0C8B00][000002641BEF0340 49] Android_Adreno6xx_Vulkan, [000002641B009A00][000002641BEF44C0 49] Android_Mali_T6xx, [000002641B0C9C00][000002641BEF8640 49] Android_Mali_T7xx, [000002641B009700][000002641BEFC7C0 49] Android_Mali_T8xx, [000002641B0C8700][000002641BF00940 49] Android_Mali_G71, [000002641B009200][000002641BF04AC0 49] Android_Mali_G72, [000002641B0C9A00][000002641BF08C40 49] Android_Mali_G72_Vulkan, [000002641B00A600][000002641BF0CDC0 49] Android_Mali_G76, [000002641B0C9900][000002641BF10F40 49] Android_Mali_G76_Vulkan, [000002641B008300][000002641BF150C0 49] Android_Mali_G77, [000002641B0C9B00][000002641BF19240 49] Android_Mali_G77_Vulkan, [000002641B042100][000002641BF1D3C0 49] Android_Vulkan_SM5, [000002641AFF3A00][000002641BF21540 49] Android_PowerVR_G6xxx, [000002641B043C00][000002641BF256C0 49] Android_PowerVR_GT7xxx, [000002641AFF1700][000002641BF29840 49] Android_PowerVR_GE8xxx, [000002641B042C00][000002641BEE9980 49] Android_PowerVR_GM9xxx, [000002641AFF2E00][000002641BF2DAC0 49] Android_PowerVR_GM9xxx_Vulkan, [000002641B043A00][000002641BF31C00 49] Android_TegraK1, [000002641AFF1D00][000002641BF35D40 49] Android_Unknown_Vulkan, [000002641B041100][000002641BF3C200 49] Lumin, [000002641AFF1500][000002641BF40380 49] Lumin_Desktop, [000002641B042200][000002641BF44500 49] HoloLens, 
+[2021.11.24-00.54.26:005][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.24-00.54.26:005][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.24-00.54.26:005][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.24-00.54.26:005][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.24-00.54.26:007][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.24-00.54.27:259][  0]LogNetVersion: escenario 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1246768835)
+[2021.11.24-00.55.06:066][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.24-00.55.06:197][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.069155 seconds
+[2021.11.24-00.55.06:203][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.24-00.55.06:203][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.24-00.55.06:203][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.24-00.55.10:082][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.24-00.55.10:124][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.24-00.55.11:831][  0]SourceControl: Source control is disabled
+[2021.11.24-00.55.11:831][  0]SourceControl: Source control is disabled
+[2021.11.24-00.55.11:934][  0]SourceControl: Source control is disabled
+[2021.11.24-00.55.11:963][  0]SourceControl: Source control is disabled
+[2021.11.24-00.55.12:013][  0]LogUProjectInfo: Found projects:
+[2021.11.24-00.55.12:046][  0]SourceControl: Source control is disabled
+[2021.11.24-00.55.14:511][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.24-00.55.14:620][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.24-00.55.14:620][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.24-00.55.15:531][  0]LogOcInput: OculusInput pre-init called
+[2021.11.24-00.55.15:630][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.24-00.55.15:630][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.24-00.55.15:751][  0]LogCollectionManager: Loaded 0 collections in 0.002887 seconds
+[2021.11.24-00.55.16:646][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Collections/' took 0.03s
+[2021.11.24-00.55.16:646][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/Developers/edgar/Collections/' took 0.00s
+[2021.11.24-00.55.16:646][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/Collections/' took 0.00s
+[2021.11.24-00.55.16:648][  0]LogEngine: Initializing Engine...
+[2021.11.24-00.55.22:167][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.11.24-00.55.22:194][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.24-00.55.22:220][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.11.24-00.55.22:381][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.24-00.55.22:848][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.24-00.55.22:849][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.24-00.55.22:908][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.24-00.55.22:908][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.24-00.55.22:908][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-00.55.22:908][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-00.55.22:908][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-00.55.22:908][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-00.55.22:908][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-00.55.22:908][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-00.55.22:908][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-00.55.22:908][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-00.55.22:908][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-00.55.22:909][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-00.55.23:010][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-00.55.23:010][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-00.55.23:074][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.11.24-00.55.23:082][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-00.55.23:085][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-00.55.23:085][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-00.55.23:087][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-00.55.23:087][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-00.55.23:087][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-00.55.23:089][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-00.55.23:089][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-00.55.23:089][  0]LogInit: FAudioDevice initialized.
+[2021.11.24-00.55.23:090][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.24-00.55.23:113][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.24-00.55.23:190][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/edgar/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.24-00.55.23:190][  0]LogInit: Texture streaming: Enabled
+[2021.11.24-00.55.23:324][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.24-00.55.23:348][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.24-00.55.23:348][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.24-00.55.23:365][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.24-00.55.23:817][  0]LogInit: Transaction tracking system initialized
+[2021.11.24-00.55.24:126][  0]BlueprintLog: New page: Editor Load
+[2021.11.24-00.55.25:682][  0]LocalizationService: Localization service is disabled
+[2021.11.24-00.55.26:183][  0]TimingProfiler: Initialize
+[2021.11.24-00.55.26:190][  0]TimingProfiler: OnSessionChanged
+[2021.11.24-00.55.26:191][  0]LoadingProfiler: Initialize
+[2021.11.24-00.55.26:193][  0]LoadingProfiler: OnSessionChanged
+[2021.11.24-00.55.26:193][  0]NetworkingProfiler: Initialize
+[2021.11.24-00.55.26:193][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.24-00.55.26:194][  0]MemoryProfiler: Initialize
+[2021.11.24-00.55.26:194][  0]MemoryProfiler: OnSessionChanged
+[2021.11.24-00.55.28:949][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.24-00.55.28:949][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.24-00.55.29:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/' took 0.02s
+[2021.11.24-00.55.34:105][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.24-00.55.34:145][  0]SourceControl: Source control is disabled
+[2021.11.24-00.55.34:145][  0]LogUnrealEdMisc: Loading editor; pre map load, took 182.209
+[2021.11.24-00.55.34:145][  0]Cmd: MAP LOAD FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.24-00.55.34:170][  0]LightingResults: New page: Lighting Build
+[2021.11.24-00.55.34:210][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-00.55.34:322][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-00.55.34:425][  0]MapCheck: New page: Map Check
+[2021.11.24-00.55.34:425][  0]LightingResults: New page: Lighting Build
+[2021.11.24-00.55.35:115][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.11.24-00.55.36:867][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.11.24-00.55.36:869][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.24-00.55.37:100][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.24-00.55.37:194][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.11.24-00.55.37:224][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.24-00.55.37:224][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2021.11.24-00.55.37:225][  0]LogFileHelpers: Loading map 'MainMenu' took 3.080
+[2021.11.24-00.55.40:111][  0]LogUnrealEdMisc: Total Editor Startup Time, took 188.176
+[2021.11.24-00.55.40:957][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-00.55.40:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-00.55.40:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-00.55.40:988][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-00.55.41:348][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0185 seconds. Added 3601 classes and 859 folders.
+[2021.11.24-00.55.41:673][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.24-00.55.41:928][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-00.55.41:928][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.41:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-00.55.41:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.11.24-00.55.41:986][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.24-00.55.41:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.41:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.24-00.55.41:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.24-00.55.41:989][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.24-00.55.41:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.41:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.24-00.55.41:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.24-00.55.42:047][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-00.55.42:048][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:048][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-00.55.42:048][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.24-00.55.42:117][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.24-00.55.42:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.24-00.55.42:117][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.24-00.55.42:120][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.24-00.55.42:120][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:120][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.24-00.55.42:120][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.24-00.55.42:123][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.24-00.55.42:124][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:124][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.24-00.55.42:124][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.24-00.55.42:160][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.24-00.55.42:160][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.24-00.55.42:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.11.24-00.55.42:218][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-00.55.42:218][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:218][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-00.55.42:218][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.11.24-00.55.42:275][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.24-00.55.42:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.24-00.55.42:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.11.24-00.55.42:353][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.24-00.55.42:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.24-00.55.42:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.11.24-00.55.42:488][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-00.55.42:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-00.55.42:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.11.24-00.55.42:492][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-00.55.42:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-00.55.42:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.11.24-00.55.42:495][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-00.55.42:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-00.55.42:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.11.24-00.55.42:499][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.24-00.55.42:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.24-00.55.42:499][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2021.11.24-00.55.42:539][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-00.55.42:539][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-00.55.42:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000167
+[2021.11.24-00.55.42:552][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.24-00.55.42:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.24-00.55.42:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000171
+[2021.11.24-00.55.42:555][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-00.55.42:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-00.55.42:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000175
+[2021.11.24-00.55.42:558][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-00.55.42:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-00.55.42:558][  0]LogPakFile: OnPakFileMounted2Time == 0.000182
+[2021.11.24-00.55.42:561][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-00.55.42:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-00.55.42:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000186
+[2021.11.24-00.55.42:598][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-00.55.42:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-00.55.42:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000194
+[2021.11.24-00.55.42:637][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-00.55.42:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-00.55.42:637][  0]LogPakFile: OnPakFileMounted2Time == 0.000199
+[2021.11.24-00.55.42:641][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.24-00.55.42:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.24-00.55.42:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000203
+[2021.11.24-00.55.42:687][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-00.55.42:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-00.55.42:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000207
+[2021.11.24-00.55.42:779][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-00.55.42:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:779][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-00.55.42:779][  0]LogPakFile: OnPakFileMounted2Time == 0.000211
+[2021.11.24-00.55.42:791][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.24-00.55.42:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-00.55.42:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.24-00.55.42:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000216
+[2021.11.24-00.55.47:216][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.24-00.55.47:380][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.11.24-00.55.48:063][  0]LogSlate: Took 0.034274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.24-00.55.48:099][  0]LogSlate: Took 0.032984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.24-00.55.48:121][  0]LogSlate: Took 0.017852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.24-00.55.48:574][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2021.11.24-00.55.49:001][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.24-00.55.49:001][  0]LogLoad: (Engine Initialization) Total time: 197.07 seconds
+[2021.11.24-00.55.49:001][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.24-00.55.49:001][  0]LogInit: First time updating LLM stats...
+[2021.11.24-00.55.49:138][  0]LogAssetRegistry: Asset discovery search completed in 90.1541 seconds
+[2021.11.24-00.55.49:140][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.11.24-00.55.49:234][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.24-00.55.49:582][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/' took 0.48s
+[2021.11.24-00.55.49:950][  2]LogSlate: Took 0.001336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.24-00.55.50:581][  4]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.24-01.03.09:008][311]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.03.20:526][345]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.03.47:222][425]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.04.12:653][499]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.04.35:576][284]LogTexture: Display: Building textures: level01 (BGRA8, 424X369)
+[2021.11.24-01.04.35:618][284]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.24-01.04.35:828][284]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.11.24-01.04.38:243][284]LogSlate: Took 0.035205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.24-01.04.40:266][368]LogSlate: Took 0.001423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.24-01.05.52:734][396]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_main/Widgets/GameSettings.GameSettings
+[2021.11.24-01.06.10:274][ 23]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.24-01.06.10:389][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.11.24-01.06.10:570][ 23]LogSlate: Took 0.050367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.24-01.06.10:866][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.24-01.06.10:961][ 35]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenuEA81EB424F7ACF63AD4059B0863A4A15.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.24-01.06.11:004][ 35]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.24-01.06.11:004][ 35]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.24-01.06.52:951][879]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.07.49:859][163]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.07.50:232][163]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.11.24-01.07.50:546][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.07.50:561][177]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelect8858829342FE27EEE016EFBD7401384B.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.07.50:582][177]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.07.50:582][177]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.08.06:010][968]LogSlate: Took 0.002022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.24-01.09.46:456][478]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.09.46:525][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.11.24-01.09.47:378][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.09.47:399][519]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelect0436B1B842EDC91FE3D0AEAD90C230BB.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.09.47:423][519]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.09.47:423][519]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.09.48:786][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.11.24-01.09.48:787][586]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_main/Maps/MainMenu' took 0.049
+[2021.11.24-01.09.48:788][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Lobby/LobbyMenu] ([1] browsable assets)...
+[2021.11.24-01.09.48:788][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Lobby/LobbyMenu]
+[2021.11.24-01.09.48:871][586]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenu_Auto186B5E8AD43274E15293DFCB9238C3233.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/Lobby/LobbyMenu_Auto1.uasset'
+[2021.11.24-01.09.48:873][586]LogFileHelpers: Auto-saving content packages took 0.085
+[2021.11.24-01.10.25:922][736]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.10.25:986][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.11.24-01.10.26:328][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.10.26:344][750]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelectFC6D3BEA4E82FF373ECD40A85CCDC873.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.10.26:365][750]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.10.26:365][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.11.18:640][755]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.11.18:709][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.11.24-01.11.19:210][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.11.19:228][778]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelectBD2950524150E438A6E703A318121325.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.11.19:252][778]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.11.19:252][778]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.11.24:944][ 86]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.11.24:955][ 86]LogClass: Warning: Type mismatch in CharacterSelectID of CharacterSelect_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
+[2021.11.24-01.11.25:017][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.11.24-01.11.46:130][263]LogEditorTransaction: Undo Move Node
+[2021.11.24-01.11.57:894][906]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.11.57:976][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.11.24-01.11.58:300][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.11.58:324][918]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelectDBD064134D14E5E37AC1808EC9926091.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.11.58:347][918]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.11.58:347][918]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.12.39:431][275]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.12.39:507][275]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.11.24-01.12.39:968][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.12.39:991][295]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelect02C2321142D7E0B6F42FEF9E8E49A6A6.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.12.40:012][295]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.12.40:012][295]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.13.08:982][573]LogSlate: Window 'CharacterSelect' being destroyed
+[2021.11.24-01.13.23:438][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.14.34:423][284]LogEditorTransaction: Undo Move Node
+[2021.11.24-01.14.35:502][331]LogEditorTransaction: Undo Add Node
+[2021.11.24-01.14.44:200][834]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.14.44:584][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.11.24-01.14.44:692][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.14.44:714][835]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPCACFC4B9D43F113AB40FAD4B5833C2A4E.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.14.44:740][835]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.14.44:740][835]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.16.01:040][803]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.16.01:117][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.11.24-01.16.01:582][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.16.01:607][825]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC00BF09B0486E7C6D7F363B9CEB3D6201.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.16.01:630][825]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.16.01:630][825]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.17.49:124][379]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.17.49:205][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.11.24-01.17.49:615][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.17.49:642][396]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelectC7CBE14B4A3A85D67B247E931B18E00D.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.17.49:674][396]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.17.49:674][396]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.19.35:756][778]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.11.24-01.19.49:513][578]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.11.24-01.19.49:525][578]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.11.24-01.19.52:595][760]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.19.52:680][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.11.24-01.19.54:952][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.19.54:978][884]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPCD1CDFB954D094D9D662E06B50B6F6B21.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.19.55:001][884]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.19.55:001][884]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.19.59:513][143]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.24-01.19.59:577][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.11.24-01.20.00:186][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.24-01.20.00:250][173]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenu1233100B4118F4F68185CA983E959B53.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.24-01.20.00:271][173]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.24-01.20.00:271][173]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.24-01.20.01:874][260]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.20.01:949][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.11.24-01.20.02:283][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.20.02:304][273]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelect20C26CCE496E349A14AF029D871E077B.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.20.02:325][273]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.20.02:325][273]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.20.17:486][164]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-01.20.17:802][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-01.20.17:802][164]PIE: New page: PIE session: MainMenu (Nov 23, 2021, 1:20:17 PM)
+[2021.11.24-01.20.17:929][164]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.24-01.20.17:935][164]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.24-01.20.17:935][164]LogPlayLevel: Creating play world package: /Game/_main/Maps/UEDPIE_0_MainMenu
+[2021.11.24-01.20.17:939][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003408s)
+[2021.11.24-01.20.17:951][164]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.24-01.20.17:975][164]LogPlayLevel: PIE: World Init took: (0.036052s)
+[2021.11.24-01.20.17:975][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_main/Maps/MainMenu.MainMenu to /Game/_main/Maps/UEDPIE_0_MainMenu.MainMenu (0.040022s)
+[2021.11.24-01.20.18:041][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.11.24-01.20.18:044][164]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.24-01.20.18:044][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-01.20.18:044][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-01.20.18:044][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-01.20.18:044][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-01.20.18:044][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-01.20.18:044][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-01.20.18:044][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-01.20.18:044][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-01.20.18:045][164]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-01.20.18:045][164]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-01.20.18:047][164]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-01.20.18:047][164]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-01.20.18:067][164]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.11.24-01.20.18:067][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-01.20.18:067][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-01.20.18:067][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-01.20.18:068][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-01.20.18:068][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-01.20.18:068][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-01.20.18:087][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-01.20.18:087][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-01.20.18:087][164]LogInit: FAudioDevice initialized.
+[2021.11.24-01.20.18:087][164]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.11.24-01.20.18:146][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-01.20.18:148][164]LogLoad: Game class is 'GameMode'
+[2021.11.24-01.20.18:150][164]LogWorld: Bringing World /Game/_main/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.11.23-19.20.18
+[2021.11.24-01.20.18:230][164]LogWorld: Bringing up level for play took: 0.080450
+[2021.11.24-01.20.18:232][164]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.11.24-01.20.18:362][164]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.11.24-01.20.18:363][164]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.24-01.20.18:363][164]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.24-01.20.18:379][164]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.24-01.20.18:379][164]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.11.24-01.20.18:379][164]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.24-01.20.18:380][164]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2021.11.24-01.20.18:380][164]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.24-01.20.18:380][164]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.24-01.20.18:380][164]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.24-01.20.18:435][164]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.24-01.20.18:438][164]PIE: Server logged in
+[2021.11.24-01.20.18:439][164]PIE: Play in editor total start time 0.945 seconds.
+[2021.11.24-01.20.18:671][165]LogRenderer: Reallocating scene render targets to support 1208x596 Format 10 NumSamples 1 (Frame:1).
+[2021.11.24-01.20.31:129][888]LogSlate: Window 'escenario Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2021.11.24-01.20.31:139][888]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.11.24-01.20.31:169][888]LogWorld: BeginTearingDown for /Game/_main/Maps/UEDPIE_0_MainMenu
+[2021.11.24-01.20.31:170][888]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-01.20.31:171][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-01.20.31:186][888]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.11.24-01.20.31:186][888]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.11.24-01.20.31:186][888]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.11.24-01.20.31:187][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-01.20.31:197][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-01.20.31:238][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-01.20.31:270][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-01.20.31:272][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-01.20.31:343][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.11.24-01.20.31:401][889]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.11.24-01.20.36:838][207]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_main/MainMenu/OptionsMenu.OptionsMenu
+[2021.11.24-01.21.00:406][539]BlueprintLog: New page: Compile OptionsMenu
+[2021.11.24-01.21.00:471][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.11.24-01.21.00:916][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/MainMenu/OptionsMenu" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.11.24-01.21.00:974][559]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/OptionsMenu7A55D489418BC582C9B524BFE5011140.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/MainMenu/OptionsMenu.uasset'
+[2021.11.24-01.21.01:002][559]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.11.24-01.21.01:002][559]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/MainMenu/OptionsMenu.OptionsMenu
+[2021.11.24-01.21.02:675][654]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-01.21.02:686][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-01.21.02:686][654]PIE: New page: PIE session: MainMenu (Nov 23, 2021, 1:21:02 PM)
+[2021.11.24-01.21.02:686][654]LogPlayLevel: Creating play world package: /Game/_main/Maps/UEDPIE_0_MainMenu
+[2021.11.24-01.21.02:687][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000933s)
+[2021.11.24-01.21.02:688][654]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.24-01.21.02:688][654]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2021.11.24-01.21.02:688][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_main/Maps/MainMenu.MainMenu to /Game/_main/Maps/UEDPIE_0_MainMenu.MainMenu (0.001996s)
+[2021.11.24-01.21.02:739][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.11.24-01.21.02:742][654]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.24-01.21.02:742][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-01.21.02:742][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-01.21.02:742][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-01.21.02:742][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-01.21.02:742][654]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-01.21.02:742][654]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-01.21.02:742][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-01.21.02:742][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-01.21.02:743][654]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-01.21.02:743][654]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-01.21.02:745][654]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-01.21.02:745][654]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-01.21.02:764][654]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.11.24-01.21.02:765][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-01.21.02:765][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-01.21.02:765][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-01.21.02:765][654]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-01.21.02:765][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-01.21.02:765][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-01.21.02:785][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-01.21.02:785][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-01.21.02:785][654]LogInit: FAudioDevice initialized.
+[2021.11.24-01.21.02:785][654]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.11.24-01.21.02:843][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-01.21.02:843][654]LogLoad: Game class is 'GameMode'
+[2021.11.24-01.21.02:844][654]LogWorld: Bringing World /Game/_main/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.11.23-19.21.02
+[2021.11.24-01.21.02:845][654]LogWorld: Bringing up level for play took: 0.000429
+[2021.11.24-01.21.02:845][654]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.11.24-01.21.02:847][654]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.24-01.21.02:848][654]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.24-01.21.02:848][654]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.24-01.21.02:848][654]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.24-01.21.02:848][654]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.11.24-01.21.02:848][654]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.24-01.21.02:849][654]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 17777
+[2021.11.24-01.21.02:849][654]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.24-01.21.02:849][654]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.24-01.21.02:849][654]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.24-01.21.02:851][654]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.24-01.21.02:855][654]PIE: Server logged in
+[2021.11.24-01.21.02:859][654]PIE: Play in editor total start time 0.177 seconds.
+[2021.11.24-01.21.18:537][590]LogSlate: Window 'escenario Preview [NetMode: Server]  (64-bit/Windows) ' being destroyed
+[2021.11.24-01.21.18:555][590]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.11.24-01.21.18:560][590]LogWorld: BeginTearingDown for /Game/_main/Maps/UEDPIE_0_MainMenu
+[2021.11.24-01.21.18:560][590]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-01.21.18:560][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-01.21.18:574][590]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.11.24-01.21.18:574][590]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.11.24-01.21.18:574][590]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.11.24-01.21.18:575][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-01.21.18:587][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-01.21.18:636][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-01.21.18:638][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-01.21.18:670][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.11.24-01.21.18:691][591]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.11.24-01.21.20:331][685]BlueprintLog: New page: Compile OptionsMenu
+[2021.11.24-01.21.20:392][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.11.24-01.21.29:763][228]BlueprintLog: New page: Compile OptionsMenu
+[2021.11.24-01.21.29:828][228]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.11.24-01.21.30:203][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/MainMenu/OptionsMenu" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/MainMenu/OptionsMenu.uasset" SILENT=true
+[2021.11.24-01.21.30:261][244]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/OptionsMenuFECDCFAB45CC36724E0EBFBE34B8793F.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/MainMenu/OptionsMenu.uasset'
+[2021.11.24-01.21.30:285][244]AssetCheck: New page: Asset Save: OptionsMenu
+[2021.11.24-01.21.30:285][244]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/MainMenu/OptionsMenu.OptionsMenu
+[2021.11.24-01.21.31:788][301]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-01.21.31:788][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-01.21.31:801][301]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-01.21.31:801][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-01.22.07:020][908]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.22.07:113][908]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2021.11.24-01.22.07:440][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.22.07:462][921]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelect815DB52A47CC290CFAF35F80FFB53C49.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.22.07:486][921]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.22.07:487][921]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.22.35:573][537]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.11.24-01.22.35:574][537]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_main/Maps/MainMenu' took 0.053
+[2021.11.24-01.22.35:574][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Lobby/LobbyMenu] ([1] browsable assets)...
+[2021.11.24-01.22.35:574][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Lobby/LobbyMenu]
+[2021.11.24-01.22.35:629][537]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenu_Auto2D978BEEC41308707C716B09CEC29B72A.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/Lobby/LobbyMenu_Auto2.uasset'
+[2021.11.24-01.22.35:631][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Lobby/CharacterSelect] ([1] browsable assets)...
+[2021.11.24-01.22.35:631][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Lobby/CharacterSelect]
+[2021.11.24-01.22.35:666][537]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelect_Auto2765AE04F41B93E45E6EC0EB45E260D7B.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/Lobby/CharacterSelect_Auto2.uasset'
+[2021.11.24-01.22.35:667][537]LogFileHelpers: Auto-saving content packages took 0.093
+[2021.11.24-01.23.04:762][ 30]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.23.04:841][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.11.24-01.23.07:268][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.23.07:291][161]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC6F4ECB374E7572A46B2DA297E4B0E1E9.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.23.07:317][161]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.23.07:317][161]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.23.10:281][331]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.24-01.23.10:349][331]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.11.24-01.23.10:685][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.24-01.23.10:737][346]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenu9ACF9E2D4CEBB015C10404BAD45CCDDA.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.24-01.23.10:760][346]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.24-01.23.10:760][346]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.24-01.23.41:417][932]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.23.41:504][932]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.11.24-01.23.41:957][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.23.41:980][954]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelectD345394C496846BED748F3A257D0533E.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.23.41:999][954]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.23.41:999][954]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.24.37:178][511]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.24.37:198][511]LogBlueprint: Error: [AssetLog] C:\Users\edgar\OneDrive\Documents\GitHub\DisVideojuegos\Content\_main\Lobby\BP_LobbyPC.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Set Array Elem  to imply a specific type.
+[2021.11.24-01.24.37:198][511]LogBlueprint: Error: [AssetLog] C:\Users\edgar\OneDrive\Documents\GitHub\DisVideojuegos\Content\_main\Lobby\BP_LobbyPC.uasset: [Compiler] The type of  Item  is undetermined.  Connect something to  Set Array Elem  to imply a specific type.
+[2021.11.24-01.24.37:199][511]LogBlueprint: Error: [AssetLog] C:\Users\edgar\OneDrive\Documents\GitHub\DisVideojuegos\Content\_main\Lobby\BP_LobbyPC.uasset: [Compiler] The type of  Variable  is undetermined.  Connect something to  Set Array Elem  to imply a specific type.
+[2021.11.24-01.24.37:200][511]LogBlueprint: Error: [AssetLog] C:\Users\edgar\OneDrive\Documents\GitHub\DisVideojuegos\Content\_main\Lobby\BP_LobbyPC.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.11.24-01.24.37:279][511]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2021.11.24-01.24.37:706][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.24.37:736][512]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC46FDC1E94430AA9F71F08D9B0B0BAC68.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.24.37:765][512]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.24.37:765][512]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.25.40:302][453]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.24-01.26.32:843][192]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.24-01.26.32:943][192]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2021.11.24-01.26.33:371][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.24-01.26.33:405][210]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyGameMode22125A944192DC223B60A69138C249B0.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.24-01.26.33:425][210]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.24-01.26.33:425][210]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.24-01.26.40:010][601]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.24-01.26.40:112][601]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2021.11.24-01.26.40:480][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.24-01.26.40:513][614]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyGameMode15E40B7947084171ACB2289A2C551404.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.24-01.26.40:531][614]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.24-01.26.40:532][614]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.24-01.27.14:675][939]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.24-01.27.14:767][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.11.24-01.27.15:203][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.24-01.27.15:238][958]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyGameMode7A4249AF43F5A598AE2BBB911BB1291E.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.24-01.27.15:259][958]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.24-01.27.15:259][958]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.24-01.27.38:891][343]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-01.27.39:725][383]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-01.27.43:295][594]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-01.27.44:875][680]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-01.27.47:320][823]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-01.27.48:789][903]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-01.27.57:232][400]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-01.27.59:832][547]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.24-01.27.59:930][547]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2021.11.24-01.28.00:390][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.24-01.28.00:435][565]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyGameMode22E86DB84A68C190397FFAA4C3E93F88.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.24-01.28.00:461][565]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.24-01.28.00:462][565]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.24-01.28.12:710][135]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.28.12:804][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.11.24-01.28.13:182][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.28.13:207][151]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC33BA01EF471FF3E87979EEACEA3116D9.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.28.13:227][151]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.28.13:227][151]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.28.25:406][774]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.28.25:495][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.11.24-01.28.25:797][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.28.25:825][786]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC8EE87D134D18E937FE1929B6C2857ACC.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.28.25:851][786]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.28.25:851][786]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.31.26:328][930]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.31.26:426][930]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2021.11.24-01.31.26:833][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.31.26:870][948]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPCEF0E50AE499A5C2474E5D89C3C113C75.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.31.26:896][948]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.31.26:896][948]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.32.37:040][680]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2021.11.24-01.32.37:041][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_main/Maps/MainMenu' took 0.058
+[2021.11.24-01.32.37:041][680]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Lobby/BP_LobbyPC] ([1] browsable assets)...
+[2021.11.24-01.32.37:041][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Lobby/BP_LobbyPC]
+[2021.11.24-01.32.37:072][680]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC_Auto343CF50FD44994FB3960A20B5F3C77DA2.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/Lobby/BP_LobbyPC_Auto3.uasset'
+[2021.11.24-01.32.37:073][680]LogFileHelpers: Auto-saving content packages took 0.032
+[2021.11.24-01.36.12:220][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_main/Lobby/BPI_LobbyPC.BPI_LobbyPC
+[2021.11.24-01.36.27:613][138]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.11.24-01.36.27:620][138]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.11.24-01.36.43:980][106]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/_main/S_PlayerInfo.S_PlayerInfo
+[2021.11.24-01.36.58:154][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/S_PlayerInfo" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/S_PlayerInfo.uasset" SILENT=true
+[2021.11.24-01.36.58:156][906]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/S_PlayerInfo877B03FD45B9DA8DC90B65BBE37C4461.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/S_PlayerInfo.uasset'
+[2021.11.24-01.36.58:174][906]AssetCheck: New page: Asset Save: S_PlayerInfo
+[2021.11.24-01.36.58:174][906]LogContentValidation: Display: Validating UserDefinedStruct /Game/_main/S_PlayerInfo.S_PlayerInfo
+[2021.11.24-01.37.02:432][152]BlueprintLog: New page: Compile BP_LobbyGameMode
+[2021.11.24-01.37.02:531][152]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2021.11.24-01.37.05:235][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyGameMode" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset" SILENT=true
+[2021.11.24-01.37.05:268][297]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyGameMode97629FA8413E384CF2987882A8BB698A.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyGameMode.uasset'
+[2021.11.24-01.37.05:286][297]AssetCheck: New page: Asset Save: BP_LobbyGameMode
+[2021.11.24-01.37.05:286][297]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyGameMode.BP_LobbyGameMode
+[2021.11.24-01.37.06:450][359]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.37.06:469][359]LogBlueprint: Error: [AssetLog] C:\Users\edgar\OneDrive\Documents\GitHub\DisVideojuegos\Content\_main\Lobby\BP_LobbyPC.uasset: [Compiler] In use pin  Player Character  no longer exists on node  Set members in S_PlayerInfo . Please refresh node or break links to remove pin.
+[2021.11.24-01.37.06:553][359]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.11.24-01.37.07:102][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.37.07:132][385]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC4FA156764265ABF04767EFA638BBF0CA.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.37.07:157][385]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.37.07:157][385]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.37.24:906][429]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.37.24:996][429]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2021.11.24-01.37.25:448][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.37.25:478][449]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC4AE3397A4C4620E4A75802A511FB3143.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.37.25:497][449]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.37.25:497][449]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.38.01:794][833]BlueprintLog: New page: Compile BP_LobbyPC
+[2021.11.24-01.38.01:893][833]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2021.11.24-01.38.02:399][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/BP_LobbyPC" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset" SILENT=true
+[2021.11.24-01.38.02:436][856]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/BP_LobbyPC854BF9A54B98BEF9BCA63E8969DFBD64.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/BP_LobbyPC.uasset'
+[2021.11.24-01.38.02:457][856]AssetCheck: New page: Asset Save: BP_LobbyPC
+[2021.11.24-01.38.02:457][856]LogContentValidation: Display: Validating Blueprint /Game/_main/Lobby/BP_LobbyPC.BP_LobbyPC
+[2021.11.24-01.38.23:338][ 97]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.24-01.38.23:357][ 97]LogBlueprint: Error: [AssetLog] C:\Users\edgar\OneDrive\Documents\GitHub\DisVideojuegos\Content\_main\Lobby\LobbyMenu.uasset: [Compiler] In use pin  Player Character  no longer exists on node  Break S_PlayerInfo . Please refresh node or break links to remove pin.
+[2021.11.24-01.38.23:423][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.11.24-01.38.24:243][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.24-01.38.24:297][139]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenu69C73F55475DEC1AA7F39FA9240615FD.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.24-01.38.24:322][139]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.24-01.38.24:322][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.24-01.38.42:950][158]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/_main/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/_main/Maps/MainMenu.MainMenu_C
+[2021.11.24-01.38.42:950][158]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/_main/MainMenu/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/_main/Maps/MainMenu.SKEL_MainMenu_C
+[2021.11.24-01.38.43:018][161]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AlienSoldier2_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AlienSoldier2_C_0
+	Function /Game/AlienSoldier2/ABP_AlienSoldier2.ABP_AlienSoldier2_C:ExecuteUbergraph_ABP_AlienSoldier2:0307
+[2021.11.24-01.38.43:018][161]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AlienSoldier2_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AlienSoldier2_C_0
+	Function /Game/AlienSoldier2/ABP_AlienSoldier2.ABP_AlienSoldier2_C:ExecuteUbergraph_ABP_AlienSoldier2:0397
+[2021.11.24-01.38.43:018][161]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AlienSoldier2_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AlienSoldier2_C_0
+	Function /Game/AlienSoldier2/ABP_AlienSoldier2.ABP_AlienSoldier2_C:ExecuteUbergraph_ABP_AlienSoldier2:0421
+[2021.11.24-01.38.43:018][161]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ABP_AlienSoldier2_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AlienSoldier2_C_0
+	Function /Game/AlienSoldier2/ABP_AlienSoldier2.ABP_AlienSoldier2_C:ExecuteUbergraph_ABP_AlienSoldier2:044F
+[2021.11.24-01.38.44:809][266]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/_main/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/_main/Maps/MainMenu.MainMenu_C
+[2021.11.24-01.38.44:809][266]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/_main/MainMenu/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/_main/Maps/MainMenu.SKEL_MainMenu_C
+[2021.11.24-01.39.12:404][495]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-01.39.49:544][ 60]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.41.02:498][277]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.41.12:997][307]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.41.43:381][397]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.42.30:923][856]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/_main/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/_main/Maps/MainMenu.MainMenu_C
+[2021.11.24-01.42.30:923][856]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/_main/MainMenu/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/_main/Maps/MainMenu.SKEL_MainMenu_C
+[2021.11.24-01.43.23:171][ 52]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/_main/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/_main/Maps/MainMenu.MainMenu_C
+[2021.11.24-01.43.23:171][ 52]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/_main/MainMenu/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/_main/Maps/MainMenu.SKEL_MainMenu_C
+[2021.11.24-01.43.26:579][249]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.11.24-01.43.26:581][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_main/Maps/MainMenu' took 0.063
+[2021.11.24-01.43.26:582][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/MainMenu/OptionsMenu] ([1] browsable assets)...
+[2021.11.24-01.43.26:582][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/MainMenu/OptionsMenu]
+[2021.11.24-01.43.26:642][249]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/OptionsMenu_Auto4A38D9C154645BD2D31A560AB5ED3EFB9.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/MainMenu/OptionsMenu_Auto4.uasset'
+[2021.11.24-01.43.26:645][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/PlayerSave] ([1] browsable assets)...
+[2021.11.24-01.43.26:645][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/PlayerSave]
+[2021.11.24-01.43.26:645][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/PlayerSave" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/PlayerSave_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.11.24-01.43.26:647][249]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/PlayerSave_Auto4981B45BB4294DE3F314A3A87784DA550.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/PlayerSave_Auto4.uasset'
+[2021.11.24-01.43.26:649][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Lobby/LobbyMenu] ([1] browsable assets)...
+[2021.11.24-01.43.26:649][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Lobby/LobbyMenu]
+[2021.11.24-01.43.26:700][249]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenu_Auto43996813F4E8629C81EB983B063F97FA4.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/Lobby/LobbyMenu_Auto4.uasset'
+[2021.11.24-01.43.26:701][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Widgets/GameSettings] ([1] browsable assets)...
+[2021.11.24-01.43.26:701][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Widgets/GameSettings]
+[2021.11.24-01.43.26:749][249]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/GameSettings_Auto4626FAA1142C7BD2AB647A0AEE3EA3067.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/Widgets/GameSettings_Auto4.uasset'
+[2021.11.24-01.43.26:750][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Lobby/PlayerButton] ([1] browsable assets)...
+[2021.11.24-01.43.26:750][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Lobby/PlayerButton]
+[2021.11.24-01.43.26:763][249]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/PlayerButton_Auto4E8E49C50496141B3D9CE59854D02A27B.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/Lobby/PlayerButton_Auto4.uasset'
+[2021.11.24-01.43.26:764][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_main/Lobby/ConnectedPlayer] ([1] browsable assets)...
+[2021.11.24-01.43.26:764][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/_main/Lobby/ConnectedPlayer]
+[2021.11.24-01.43.26:775][249]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/ConnectedPlayer_Auto44FDFD2D14B7347017A17FBB0D49028FF.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/Autosaves/Game/_main/Lobby/ConnectedPlayer_Auto4.uasset'
+[2021.11.24-01.43.26:776][249]LogFileHelpers: Auto-saving content packages took 0.195
+[2021.11.24-01.43.50:963][549]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.44.28:579][660]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.24-01.44.28:653][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.11.24-01.44.29:485][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.24-01.44.29:538][703]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenu4CA9A93142365B43F285BEB976479230.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.24-01.44.29:566][703]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.24-01.44.29:566][703]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.24-01.44.31:727][828]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.24-01.44.31:821][828]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.11.24-01.45.55:995][960]BlueprintLog: New page: Compile LobbyMenu
+[2021.11.24-01.45.56:090][960]LogUObjectHash: Compacting FUObjectHashTables data took   9.87ms
+[2021.11.24-01.45.56:842][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/LobbyMenu" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset" SILENT=true
+[2021.11.24-01.45.56:902][998]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/LobbyMenu49F239CB48E088614A3FC996F07D35DD.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/LobbyMenu.uasset'
+[2021.11.24-01.45.56:932][998]AssetCheck: New page: Asset Save: LobbyMenu
+[2021.11.24-01.45.56:932][998]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/LobbyMenu.LobbyMenu
+[2021.11.24-01.46.32:375][918]BlueprintLog: New page: Compile GameSettings
+[2021.11.24-01.46.32:508][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.11.24-01.46.32:877][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Widgets/GameSettings" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Widgets/GameSettings.uasset" SILENT=true
+[2021.11.24-01.46.32:927][932]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/GameSettingsEF2015534D3D1200996F68970D5F57E0.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Widgets/GameSettings.uasset'
+[2021.11.24-01.46.32:949][932]AssetCheck: New page: Asset Save: GameSettings
+[2021.11.24-01.46.32:949][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Widgets/GameSettings.GameSettings
+[2021.11.24-01.46.38:970][258]LogSlate: Took 0.056325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.24-01.47.32:895][258]BlueprintLog: New page: Compile CharacterSelect
+[2021.11.24-01.47.33:019][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.11.24-01.47.33:460][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_main/Lobby/CharacterSelect" FILE="C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset" SILENT=true
+[2021.11.24-01.47.33:496][278]LogSavePackage: Moving 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Saved/CharacterSelectE706DA9041E3C1A7FDFD45ACA29C2AB5.tmp' to 'C:/Users/edgar/OneDrive/Documents/GitHub/DisVideojuegos/Content/_main/Lobby/CharacterSelect.uasset'
+[2021.11.24-01.47.33:525][278]AssetCheck: New page: Asset Save: CharacterSelect
+[2021.11.24-01.47.33:525][278]LogContentValidation: Display: Validating WidgetBlueprint /Game/_main/Lobby/CharacterSelect.CharacterSelect
+[2021.11.24-01.47.43:610][648]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.24-01.48.06:253][714]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-01.48.06:268][714]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.24-01.48.06:270][714]LogPlayLevel: [PlayLevel] Compiling PlayerSave before play...
+[2021.11.24-01.48.06:280][714]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2021.11.24-01.48.06:332][714]LogPlayLevel: [PlayLevel] Compiling PlayerButton before play...
+[2021.11.24-01.48.06:355][714]LogPlayLevel: [PlayLevel] Compiling ConnectedPlayer before play...
+[2021.11.24-01.48.06:442][714]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.11.24-01.48.06:443][714]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (4 blueprints)
+[2021.11.24-01.48.06:443][714]PIE: New page: PIE session: MainMenu (Nov 23, 2021, 1:48:06 PM)
+[2021.11.24-01.48.06:443][714]LogPlayLevel: Creating play world package: /Game/_main/Maps/UEDPIE_0_MainMenu
+[2021.11.24-01.48.06:444][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000991s)
+[2021.11.24-01.48.06:445][714]LogAIModule: Creating AISystem for world MainMenu
+[2021.11.24-01.48.06:445][714]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2021.11.24-01.48.06:445][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_main/Maps/MainMenu.MainMenu to /Game/_main/Maps/UEDPIE_0_MainMenu.MainMenu (0.002277s)
+[2021.11.24-01.48.06:497][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.11.24-01.48.06:497][714]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.24-01.48.06:498][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-01.48.06:498][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-01.48.06:498][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-01.48.06:498][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-01.48.06:498][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-01.48.06:498][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-01.48.06:498][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-01.48.06:498][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-01.48.06:498][714]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-01.48.06:498][714]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-01.48.06:502][714]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-01.48.06:502][714]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-01.48.06:523][714]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.11.24-01.48.06:523][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-01.48.06:523][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-01.48.06:523][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-01.48.06:524][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-01.48.06:524][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-01.48.06:524][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-01.48.06:546][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-01.48.06:547][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-01.48.06:547][714]LogInit: FAudioDevice initialized.
+[2021.11.24-01.48.06:547][714]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2021.11.24-01.48.06:612][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-01.48.06:612][714]LogLoad: Game class is 'GameMode'
+[2021.11.24-01.48.06:613][714]LogWorld: Bringing World /Game/_main/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.11.23-19.48.06
+[2021.11.24-01.48.06:614][714]LogWorld: Bringing up level for play took: 0.000597
+[2021.11.24-01.48.06:614][714]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.11.24-01.48.06:617][714]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.24-01.48.06:644][714]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.24-01.48.06:644][714]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.24-01.48.06:644][714]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.11.24-01.48.06:644][714]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.11.24-01.48.06:644][714]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.24-01.48.06:644][714]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2021.11.24-01.48.06:644][714]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.24-01.48.06:644][714]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.24-01.48.06:644][714]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.24-01.48.06:646][714]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.24-01.48.06:648][714]PIE: Server logged in
+[2021.11.24-01.48.06:649][714]PIE: Play in editor total start time 0.385 seconds.
+[2021.11.24-01.48.13:418][110]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.11.24-01.48.13:418][110]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.11.24-01.48.13:418][110]LogNet: Browse: /Game/_main/Maps/Lobby?listen
+[2021.11.24-01.48.13:418][110]LogLoad: LoadMap: /Game/_main/Maps/Lobby?listen
+[2021.11.24-01.48.13:418][110]LogWorld: BeginTearingDown for /Game/_main/Maps/UEDPIE_0_MainMenu
+[2021.11.24-01.48.13:418][110]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.11.24-01.48.13:418][110]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.11.24-01.48.13:419][110]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.11.24-01.48.13:419][110]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-01.48.13:419][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-01.48.13:468][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-01.48.13:472][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.11.24-01.48.13:490][110]LogLoad: Error: Previously active world /Engine/Transient.World_14 not cleaned up by garbage collection!
+[2021.11.24-01.48.13:490][110]LogLoad: Error: Once a world has become active, it cannot be reused and must be destroyed and reloaded. World referenced by:
+[2021.11.24-01.48.14:195][110]LogReferenceChain: (root) UnrealEdEngine /Engine/Transient.UnrealEdEngine_0->Trans
+[2021.11.24-01.48.14:195][110]LogReferenceChain:  TransBuffer /Engine/Transient.TransBuffer_0::AddReferencedObjects()
+[2021.11.24-01.48.14:195][110]LogReferenceChain:   World /Engine/Transient.World_14
+[2021.11.24-01.48.14:195][110]LogReferenceChain:   
+[2021.11.24-01.48.14:195][110]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.24-01.48.14:195][110]LogWindows: Windows GetLastError: The operation completed successfully. (0)
